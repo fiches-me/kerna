@@ -2,4 +2,4 @@
 title: Argh
 ---
 
-Moi j'ai dit que je faisait le code pas la rédac
+Moi j'ai dit que je faisais le code pas la rédac
