@@ -28,7 +28,7 @@ Le texte parle des distinctions entre les différents "modes" de raison. Il met 
 Il y a bien deux manières de vivre **mais pas deux types d'hommes**.
 
 Il arrive cependant que certaines questions (tel que le *Il faut s'adapter*) entraîne **un éveil à la liberté**.
-# 1️⃣ La vie ordinaire - le xxx accepté
+# 1️⃣ La vie ordinaire - le send de la vie accepté
 Le premier paragraphe du texte incite sur la singularité du mode de pensé philosophique.
 
 ## 🌿 Croyance Naturelle
@@ -60,7 +60,7 @@ La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pe
 - **La Parole** : L'acte singulier d'expression d'un individu et une Langue
 - **Le Language** : La faculté de parler (utiliser la parole) en utilisant une langue.
 
-### 🌥 Le Kosmotheoros
+### ⛅ Le Kosmotheoros
 Le Kosmotheoros est une entité imaginaire qui serait sans appartenances. Un être immortel, de surplomb, de survol.
 
 ### ❄️ La Finitude
@@ -89,3 +89,37 @@ Pour comprendre le concept d'experiences négatives, nous devons d'abord mettre 
 |          Cause déterminé           |                          Pas de cause précise ou de raison suffisante                          |
 |  Continuité avec le monde commun   | Crise, ébranlement. Déstabilisation, transformation, ouverture ou naissance d'un nouveau monde |
 | Le fait en question est explicable |                                          Inexplicable                                          |
+
+# 3️⃣ L’événement de la parole philosophique
+
+# 4️⃣ L'étonnement philosophique
+
+Patocka aborde un autre type d'experience à la racine de la philosophie : **l’événement**. Il est beaucoup plus profond que les experiences négatives.
+
+Curiosité (Ontique) ≠ Étonnement (Ontologique)
+
+
+
+# *️⃣ Conclusion
+
+A l'aube de ce texte, on progresse dans la réflexion sur ce que signifie que penser par soi-même, une croyance naive de l'être humain qui oublie la réalité du conditionnement et de la finitude.
+
+**Pour amener la réflexion, il faut une impulsion, une experience négative, un événement :**
+
+-> Penser contre la société, contre autrui, contre la langue
+
+-> Penser contre soit même, contre nos croyances introverties
+
+-> Penser avec autrui, hériter par et avec les Oeuvres de Culture
+> *Les oeuvres de cultures sont  des oeuvres philosophiques, mais aussi des textes littératies ou des oeuvres d'arts. Toutes ces créations ont une d'ébranlement, contre le réflexe de la pensée automatique.* 
+
+```mermaid
+graph LR
+    main[[La Raison]]
+    b1>Technicienne]
+    b2>Interrogative]
+    main -- Soucis d'avoir ---> b1
+    main -- Soucis d'être  ---> b2
+```
+
+##### On a donc jamais finit de chercher la vérité et la liberté
