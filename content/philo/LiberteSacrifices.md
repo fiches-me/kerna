@@ -92,13 +92,33 @@ Pour comprendre le concept d'experiences négatives, nous devons d'abord mettre 
 
 # 3️⃣ L’événement de la parole philosophique
 
+*Ecriture en cours* [^1]
+
 # 4️⃣ L'étonnement philosophique
 
 Patocka aborde un autre type d'experience à la racine de la philosophie : **l’événement**. Il est beaucoup plus profond que les experiences négatives.
 
-Curiosité (Ontique) ≠ Étonnement (Ontologique)
+Mais avant d'étudier l'étonnement, nous devons bien le différencier de **la curiosité**
 
+## 🧐 La Curiosité (Ontique)
 
+La curiosité est dite Ontique, c'est à dire qu'elle est relative à un l'état, à quelque chose de déterminé. 
+
+Exemples:
+- Un animal dans une classe: *Que fait-il là ?*
+- Domaine politique/people : *Enquête sur une personne donné*
+
+## 🤯 L'Étonnement (Ontologique)
+l’étonnement est global sur tout l'état, devant l'étrangeté de qui nous somme et de l'existence du monde.
+**Il y a un affect**. La conscience philosophique s'éveil sous l'effet de l'étonnement et est animé par un désir de vérité.
+
+Exemples:
+- La crise de 29: *Questionnement*
+- Le Deuil: *déterminé ***MAIS*** nous confronte à la question de notre existence. A cheval sur experience négative et étonnement.*
+
+## 😵‍💫 Paradoxe
+
+Le philosophe veux lutter contre les affects (les émotions), mais la source de la philosophie provient des affects.
 
 # *️⃣ Conclusion
 
@@ -123,3 +143,5 @@ graph LR
 ```
 
 ##### On a donc jamais finit de chercher la vérité et la liberté
+
+[^1]: Le raisonnement se déploie toujours sur un fond de préjudices inaperçus considéré par tout le monde comme fondés.
