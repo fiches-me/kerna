@@ -28,7 +28,8 @@ Le texte parle des distinctions entre les différents "modes" de raison. Il met 
 Il y a bien deux manières de vivre **mais pas deux types d'hommes**.
 
 Il arrive cependant que certaines questions (tel que le *Il faut s'adapter*) entraîne **un éveil à la liberté**.
-# 1️⃣ La vie ordinaire - le send de la vie accepté
+
+# 1️⃣ La vie ordinaire - le sens de la vie accepté
 Le premier paragraphe du texte incite sur la singularité du mode de pensé philosophique.
 
 ## 🌿 Croyance Naturelle
