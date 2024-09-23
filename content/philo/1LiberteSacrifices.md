@@ -56,8 +56,8 @@ Contrairement au croyances naturelles, le conditionnement culturel est acquis du
 ### 🪗 La Langue
 La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pensé, son existence permet aussi de la limiter. La langue est composé de trois objets :
 - **La Langue** : Un ensemble de règles communes (la grammaire et le lexique)
- - Le lexique (les mots) possèdent une histoire chargé d'un sens qui nous ont été légués.
- - La grammaire, qui considère que le sujet est maître de son action alors que nous avons déjà vu precedement que ce n'est pas le cas.
+  - Le lexique (les mots) possèdent une histoire chargé d'un sens qui nous ont été légués.
+  - La grammaire, qui considère que le sujet est maître de son action alors que nous avons déjà vu precedement que ce n'est pas le cas.
 - **La Parole** : L'acte singulier d'expression d'un individu et une Langue
 - **Le Language** : La faculté de parler (utiliser la parole) en utilisant une langue.
 
