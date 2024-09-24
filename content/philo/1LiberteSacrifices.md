@@ -61,6 +61,9 @@ La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pe
 - **La Parole** : L'acte singulier d'expression d'un individu et une Langue
 - **Le Language** : La faculté de parler (utiliser la parole) en utilisant une langue.
 
+### 🏫 L'École
+L'école est une source de conditionnement par l'éducation unique qu'elle imprègne aux élèves
+
 ### ⛅ Le Kosmotheoros
 Le Kosmotheoros est une entité imaginaire qui serait sans appartenances. Un être immortel, de surplomb, de survol.
 
