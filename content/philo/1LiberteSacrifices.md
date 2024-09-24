@@ -2,7 +2,7 @@
 title: Libertés et Sacrifices
 ---
 
-###### Fiche écrite par Guilhem :)
+##### Fiche écrite par Guilhem :)
 
 # 📖 Texte
 - 👤 Auteur: **Ian Patocka**
@@ -96,7 +96,7 @@ Ce deuxième paragraphe explicite les différentes expériences négatives exist
 - Catastrophe 
 - Deuil
 
-Elle sont décrites comme un bouleversement, un Émébranlement, une "*supension dans le vide*". 
+Elle sont décrites comme un bouleversement, un Émébranlement, une "*supension dans le vide*".
 
 Mais on peut se demander pourquoi les expériences négatives amènerais à la réflexion, alors qu'elle nous font plus penser au désarrois, à la tristesse...
 Pour comprendre le concept d'experiences négatives, nous devons d'abord mettre en lumière celle des expériences d'évenements :
@@ -109,18 +109,22 @@ Pour comprendre le concept d'experiences négatives, nous devons d'abord mettre 
 
 ```mermaid
 graph LR
-    main[["`La Raison
+    main[["`Évènement
     *Positif ou Négatif*`"]]
     b1>Retrouver le cour paisible et linéaire de la vie naive]
     b2>Préter l'oreille au négatif & éveiller la raison, l'interrogation]
     main --> crise --> b1
     main --> crise --> b2
 ```
-
+### 🤓 La Contingence 
+Les Événements et Expériences questionne la Contingence : **ce qui peut ou aurais pu ne pas être ou être autrement.**
 
 # 3️⃣ L’événement de la parole philosophique
 
+*Passage de Socrate et Georgias*
 *Ecriture en cours* [^1]
+
+Le savoir n'est pas une opinion, mais n'est pas non plus une opinion accompagné d'une justification. Pb de cette partie : le prof nous a dit le contraire
 
 # 4️⃣ L'étonnement philosophique
 
@@ -164,9 +168,9 @@ A l'aube de ce texte, on progresse dans la réflexion sur ce que signifie que pe
 ```mermaid
 graph LR
     main[["`La Raison
-    *Positif ou Négatif*`"]]
-    b1>Retrouver le cour paisible et linéaire de la vie naive]
-    b2>Préter l'oreille au négatif & éveiller la raison, l'interrogation]
+    *TT*`"]]
+    b1>Technicienne]
+    b2>Interrogative]
     main -- Soucis d'avoir ---> b1
     main -- Soucis d'être  ---> b2
 ```
