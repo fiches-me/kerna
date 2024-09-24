@@ -2,6 +2,8 @@
 title: Libertés et Sacrifices
 ---
 
+###### Fiche écrite par Guilhem :)
+
 # 📖 Texte
 - 👤 Auteur: **Ian Patocka**
 - 📆 Publié en 1934
@@ -29,6 +31,8 @@ Il y a bien deux manières de vivre **mais pas deux types d'hommes**.
 
 Il arrive cependant que certaines questions (tel que le *Il faut s'adapter*) entraîne **un éveil à la liberté**.
 
+Il n'y a interrogation philosophique que sur ce qui paraît évident à tout le monde.
+
 # 1️⃣ La vie ordinaire - le sens de la vie accepté
 Le premier paragraphe du texte incite sur la singularité du mode de pensé philosophique.
 
@@ -38,6 +42,10 @@ Le premier paragraphe du texte incite sur la singularité du mode de pensé phil
 La **Croyance Naturelle** est une base que tout humain possède et acquis à la naissance. Elle inclut :
 - L'existence de soi et du monde
 - *Toute autre question (in)fondé ?*
+
+Tout type d'activité et de réflexion suppose cette croyance. Par exemple, le scientifique met de côté sa religion lors d'une expérience, mais il ne se demande pas si les objets qu'il étudie, si lui, si le monde existe.
+
+> Note aditionelle : la Croyance est subjective quand le savoir est justifié.
 
 La philosophie née de **l'étonnement face à l'existence de ces croyances**.
 
@@ -62,13 +70,18 @@ La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pe
 - **Le Language** : La faculté de parler (utiliser la parole) en utilisant une langue.
 
 ### 🏫 L'École
-L'école est une source de conditionnement par l'éducation unique qu'elle imprègne aux élèves
+L'école est tout d'abord le fruit d'un conditionnement : le contexte socio-historique et l'émancipation des conscience l'a fait évolué.
+
+Mais l'école a aussi pour rôle de nous faire apprendre, intérioriser, des concept et notions définit que nous ne questionnont pas et dont nous ne pouvons nous émanciper - nous avons donc la aussi une forme de conditionnement.
 
 ### ⛅ Le Kosmotheoros
-Le Kosmotheoros est une entité imaginaire qui serait sans appartenances. Un être immortel, de surplomb, de survol.
+Le Kosmotheoros est une entité imaginaire qui serait sans appartenances. Un être immortel, de surplomb, de survol. Pour lui, il n'y a pas d'après. Il est difficile pour nous de le limiter car il est par définition infinit, sans limites.
 
 ### ❄️ La Finitude
-La finitude est l'inverse du [[#🌥 Le Kosmotheoros|Kosmotheoros]], c'est justement la fin de la vie qui stimule l'humain à créer, agir.
+La finitude est l'inverse du [[#🌥 Le Kosmotheoros|Kosmotheoros]], c'est la notion de temps, de fin, d'après. C'est justement la fin de la vie qui stimule l'humain à créer, agir.
+
+
+**Le Conditionnement est tellement enraciné en nous qu'on pourrait se demander comment peut on en sortir**
 
 # 2️⃣ Ébranlement et étonnement : la vie interrogé
 
@@ -93,6 +106,17 @@ Pour comprendre le concept d'experiences négatives, nous devons d'abord mettre 
 |          Cause déterminé           |                          Pas de cause précise ou de raison suffisante                          |
 |  Continuité avec le monde commun   | Crise, ébranlement. Déstabilisation, transformation, ouverture ou naissance d'un nouveau monde |
 | Le fait en question est explicable |                                          Inexplicable                                          |
+
+```mermaid
+graph LR
+    main[["`La Raison
+    *Positif ou Négatif*`"]]
+    b1>Retrouver le cour paisible et linéaire de la vie naive]
+    b2>Préter l'oreille au négatif & éveiller la raison, l'interrogation]
+    main --> crise --> b1
+    main --> crise --> b2
+```
+
 
 # 3️⃣ L’événement de la parole philosophique
 
@@ -139,9 +163,10 @@ A l'aube de ce texte, on progresse dans la réflexion sur ce que signifie que pe
 
 ```mermaid
 graph LR
-    main[[La Raison]]
-    b1>Technicienne]
-    b2>Interrogative]
+    main[["`La Raison
+    *Positif ou Négatif*`"]]
+    b1>Retrouver le cour paisible et linéaire de la vie naive]
+    b2>Préter l'oreille au négatif & éveiller la raison, l'interrogation]
     main -- Soucis d'avoir ---> b1
     main -- Soucis d'être  ---> b2
 ```
