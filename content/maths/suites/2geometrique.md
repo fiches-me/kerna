@@ -34,3 +34,5 @@ Il faut montrer que $$\dfrac {V_{n + 1}} {V_n}$$ = constante
 $$
 \text{Somme}=\text{(1er terme)} \times \dfrac{1-q^{\text{nombre de termes}}}{1-q}
 $$
+
+[[3variation|➡️ Variations de Suites]]

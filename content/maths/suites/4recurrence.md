@@ -24,5 +24,5 @@ On considère qu'a un certain rend $$n$$, $$P_n$$ soit vraie (c'est l'hypothèse
 Il faut alors partir de la propriété au rang $$n$$ pour essayer de retrouver la propriété au rang $$n+1$$
 
 ## Exemple :
-[[5) Inégalité de Bernoulli#Démonstration|Démonstration de l'inégalité de Bernoulli]]
+[[5bernoulli|➡️ Inégalité de Bernoulli]]
  

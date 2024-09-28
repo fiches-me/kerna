@@ -36,4 +36,4 @@ $$
 \text{Somme}=\text{(nombre de termes)}\times \dfrac{\text{1er terme + dernier terme}}{2}
 $$
 
-[[geometrique|➡️ Les suites géométriques]]
+[[2geometrique|➡️ Les suites géométriques]]

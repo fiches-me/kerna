@@ -13,7 +13,7 @@ Une telle suite est dite convergente : elle admet une limite finie.
 >[!remarque]
 >Une suite qui n'est pas convergente est dite **divergente** (suite qui n'admet pas de limite finie)
 >
->  Ex: [[7) Les suites divergentes en l'infini|Les suites divergentes en l'infini]]
+>  Ex: [[7divergente|➡️ Les suites divergentes en l'infini]]
 
 
 ![[suite_convergente.png]]
