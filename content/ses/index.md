@@ -1,3 +1,3 @@
 ---
-title: SES
+title: 📊 SES
 ---

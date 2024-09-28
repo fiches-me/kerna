@@ -1,3 +1,3 @@
 ---
-title: Géopolitique
+title: 🌆 Géopolitique
 ---

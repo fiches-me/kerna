@@ -1,5 +1,5 @@
 ---
-title: Les Suites Arithmétiques
+title: 1️⃣ Les Suites Arithmétiques
 ---
 
 # Définition

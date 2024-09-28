@@ -1,5 +1,5 @@
 ---
-title: Les Suites Géoétriques
+title: 2️⃣ Les Suites Géométriques
 ---
 
 ## Définition

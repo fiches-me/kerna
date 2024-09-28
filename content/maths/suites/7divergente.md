@@ -1,3 +1,7 @@
+---
+title: 7️⃣ Suites Divergentes
+---
+
 [[6) Les suites convergentes#Définition|Lien pour comprendre les termes convergent et divergent pour les suites]]
 
 ## Définition d'une suite divergente en +l'infini

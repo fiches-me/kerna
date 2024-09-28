@@ -1,3 +1,3 @@
 ---
-title: Mathématiques
+title: 🔢 Mathématiques
 ---

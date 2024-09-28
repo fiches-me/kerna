@@ -1,5 +1,5 @@
 ---
-title: Etudier les variations d'une suite
+title: 3️⃣ Étudier les variations d'une suite
 ---
 ## 1. Méthode de la différence
 

@@ -1,3 +1,6 @@
+---
+title: 8️⃣ Sommes et ∑ Sigma
+---
 
 Le symbole Sigma $$\Large\Sigma$$ permet de désigner la somme d'une famille finie de termes.
 

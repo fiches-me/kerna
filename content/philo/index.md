@@ -1,3 +1,4 @@
 ---
-title: Philosophie
+title: 💫 Philosophie
 ---
+

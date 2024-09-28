@@ -1,3 +1,3 @@
 ---
-title: Histoire
+title: 📜 Histoire
 ---

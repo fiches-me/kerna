@@ -1,3 +1,6 @@
+---
+title: 5️⃣ Inégalité de Bernoulli
+---
 
 Pour tout réel a > 0, pour tout entier naturel n
 

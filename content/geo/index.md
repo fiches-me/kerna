@@ -1,3 +1,3 @@
 ---
-title: Géographie
+title: 🗺️ Géographie
 ---

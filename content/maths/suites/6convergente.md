@@ -1,3 +1,7 @@
+---
+title: 6️⃣ Suites Convergentes
+---
+
 ## Définition
 
 On dit que la suite $$u_n$$ admet pour limite L si tout intervalle ouvert contenant L contient tous les termes de la suite à partir d'un certain rang

@@ -1,3 +1,7 @@
+---
+title: 4️⃣ Raisonnement par Récurrence 
+---
+
 Considérons une chaîne de dominos, faire tomber un domino entraîne son plus proche voisin dans sa chute et ainsi de suite.
 
 Il y a deux conditions pour prouver que l'ensemble des dominos vont tomber.

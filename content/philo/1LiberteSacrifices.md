@@ -1,8 +1,8 @@
 ---
-title: Libertés et Sacrifices
+title: 1️⃣ Libertés et Sacrifices
 ---
 
-##### Fiche écrite par Guilhem :)
+#### Fiche écrite par Guilhem :D
 
 # 📖 Texte
 - 👤 Auteur: **Ian Patocka**

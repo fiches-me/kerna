@@ -1,3 +1,3 @@
 ---
-title: EMC
+title: 🗳️ EMC
 ---

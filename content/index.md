@@ -1,5 +1,6 @@
 ---
-title: Kernafiches
+title: 📑 Kernafiches
+enableToc: false
 ---
 
 ### Bienvenue sur notre site de fiches de révision !
