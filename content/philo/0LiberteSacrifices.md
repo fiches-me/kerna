@@ -1,5 +1,5 @@
 ---
-title: 1️⃣ Libertés et Sacrifices
+title: 0️⃣ Libertés et Sacrifices
 ---
 
 #### Fiche écrite par Guilhem :D
