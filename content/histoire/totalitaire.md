@@ -18,43 +18,43 @@ totalitarisme : régime politique de nature dictatoriale, au sein duquel l’Ét
 
 ## A-) des régimes né de la guerre et de la crise
 
-1. la Russie un coup d’état
+### 1. la Russie un coup d’état
 
 Après la première guerre mondiale, la Russie est désunis, le 24 octobre 1917 révolution bolchevique, ils prennent le pouvoir et mette à sa tête Lénine ce qui entraîne une guerre civile de 1917 à 1922 opposant les russes blancs (anti communiste) à l’armée rouge (communiste). Ce sont les bolchevicks qui l’emporte. En 1922, Il y a une constitution qui entraîne la création de l’union république socialiste soviétique autrement appelé URSS.
 
-2. L’Italie, un coup de force
+### 2. L’Italie, un coup de force
 
 Au début de la Première Guerre mondiale, l’Italie reste neutre. En 1915, l’Italie rentre finalement en guerre aux côtés de la triple entente pour récupérer leur terre. Au final ils gagnent mais ne récupère pas leur terres pour autant l’Italie se retrouve en situation difficile suite à la guerre. ils ont dépensé pour rien. En 1919 un groupe Parramilitaire appelait les faisceaux italien de combat voit le jour ils sont dirigés entre autres par Mussolini, ce dernier qui convoite le pouvoir pose un ultimatum au pouvoir établi, soit il est nommé premier ministre, soit ses troupes marchent sur Rome le 30 octobre 1922, Mussolini est nommé Premier ministre et 20 000 fascistes marche vers Rome.
 
-3. L’Allemagne, une arrivée démocratique au pouvoir
+### 3. L’Allemagne, une arrivée démocratique au pouvoir
 
 En Allemagne durant l’année 1919. Il y a un grand chaos politique, la révolution Spartakiste laisse place à la république Weimar SPD. De plus, le pays subit le traité de Versailles, Hitler, caporal deçu de l’issue de la guerre rejoins le DAP (partie des travailleurs allemand) et en change le nom (NSDAP) En 1923, l’économie allemande n’a toujours pas remonté et le pays subi une hyper inflation, le 9 novembre 1923, Hitler organise le putsch de la brasserie mais l’armée ne suit pas. Il est condamné à cinq ans de prison. Il n’en fait qu’un il y écrit mein kampf. En 1928, le NSDAP fait 2,8 % aux élections en 1932, c’est 32 % de législative et 57 au présidentiel. Le 30 janvier 1933, Hitler est nommé chancelier
 
 ## B-) La mise en place des régimes totalitaires
 
-1. Italie
+### 1. Italie
 
 Mussolini met en place une coalition un gouvernement avec peu de fascistes. En 1924 il y a l'affaire Matteotti, Mussolini truc les législatives il est dénoncé par Matteotti un député socialiste qui est retrouve mort deux jours plus tard. Cette affaire ébranle Mussolini mais il se reprend. En 1926, il fait passer les lois fascistes qui supprime les libertés telles que l’expression les manifestations, les parties etc. Il instaure également l'OVRA, organe vigilance répression de l’anti fascisme, on sait pas qui on fait partie. C’est une police secrète.
 
-2. URSS 
+### 2. URSS 
 
 A la fin des années 1920, le pays est divisé par la guerre civile en 1921 Lénine met en place la NEP, une période de transition "retour a un capitalisme limité pour un temps limité". Il nationalise une partie de l’économie : banque, ferroviaire, etc. En 1922, il fait un AVC ce qui l'affaibli. Staline en profite pour se construire une place au sein du parti en devenant le secrétaire général de celui-ci. En janvier 1924, Lénine décède et Staline forme un nouveau gouvernement collégial avec Zinoviev et Kamenev. Il pousse Trotski à l'exil puis se sépare de ses deux alliés (Z et K) en 1928, il devient l’homme fort de la vie politique en URSS.
 
-Allemagne
+### 3. Allemagne
 
 Le 27 février 1933, incendie du Reichstag, présenté comme une action communiste dans le but de les décrédibiliser, cela mène à l’interdiction du parti. le 23 mars 1923, Hitler se fait voter les pleins pouvoirs, il supprime les libertés publiques. En 1933, il ouvre le camp Dachau, où sont envoyés les opposants politiques, et exclu les juifs de la fonction publique. En août 1934, Hidenburg, le président actuel meurt. Du 29 au 30 juin 1934, "la nuit des longs couteaux" c'est l'élimination de 85, SA et l'assassinat de Rohm, le chef des SA, le 1er août.( les SA, sont le côté gauche du parti qui défendait les idées socialistes.) Hitler a donc plus de rivaux.
 
 ## C-) Des bases idéologies différentes
 
-1. Italie 
+### 1. Italie 
 
 le fascisme veut restaurer la grandeur qu’avait l’Italie au temps de l’empire romain, faire un second risorgimiento (unification italienne). Il rejette la démocratie car plusieurs parties divisent. Le dulce (=conduire) = Mussolini. Il revendique un état totalitaire. C’est d’ailleurs d’Italie que vient le totalitarisme. Au départ, ils n’ont pas d'idées raciste.
 
-2. Allemagne
+### 2. Allemagne
 
 Le parti nazi veut rendre une puissance perdue à l’Allemagne. = Pangermanisme, c’est-à-dire qu’ils veulent réunir toute la nation allemande sur le droit chemin et rassembler tous les peuples d’origine germanique, d’où la devise Ein Volk (un peuple) Ein Reich (un empire) Ein Fuhrer (un chef). Le racisme nazi se base sur la croyance que l’humanité est divisé en races supérieures (nordique arienne germanique) et inférieures (russe, bulgare, juif, etc.) ils veulent purifier l’Allemagne des étrangers, particulièrement les juifs qui serait responsable du malheur allemand. Ils veulent régner sur le monde. En 1905, les lois Nuremberg boycotte les magasins juif qui sont marqués et interdisent les relations sexuelles et certains métiers aux juifs tels que le scolaire, la presse, etc. Ils veulent établir le Lebensrawn l’espace vital. Ce qui implique par exemple de conquérir la Pologne, ils ne veulent pas exterminer les juifs avant 1941
 
-3. URSS
+### 3. URSS
 
 Le principe est fondée sur l’idéologie de Marx dans son livre Das Kapital. Dans toutes les époques, il y a un rapport dominant dominé il faut donc créer un mouvement (le communisme) prendre le pouvoir instaurer une dictature en brisant les contre-révolutionnaires et détruire le capitalisme en faisant disparaître les inégalités de classe sociale en collectivisant sous l’état. En 1928, Staline, créer les kolkhozes soit les terres collectives qu'il rendra obligatoire un an plus tard. Il met en place un plan quinquennal avec des quotas qu’on appelle Gosplan, une résistance se fait dans les campagnes, les koulaks, c’est-à-dire, les paysans, les plus aisés sont accusés d’un être investigateur, ils sont arrêtés et déportés au goulag, c’est-à-dire un camp de concentration dans le froid sibérien. Sur 4,5 millions de condamné, 4 millions meurent. En 1932-33 il y a une grosse famine en Ukraine (=Holodomor) car on leur prends toutes leurs récoltes. Ce sont des activités de types génocidaires. 
 
@@ -62,33 +62,33 @@ Le principe est fondée sur l’idéologie de Marx dans son livre Das Kapital. D
 
 ## A-) Le pouvoir est exercé de manière dictatorial
 
-1. Régime parti unique
+### 1. Régime parti unique
 
 Le parti devient une instance suprême voir un culte en URSS
 
-2. Régime antidémocratique
+### 2. Régime antidémocratique
 
 L’Italie et l’Allemagne se revendique en tant que tel. Ce sont des anti communistes car Marx est issu d’une famille juive reconverti et le communisme à vocation à s'exporter. L’URSS est convaincu qu’elle donne le pouvoir au peuple. Pour elle, le nazisme et le fascisme sont pareils et mauvais
 
-3. Toujours de la presse.
+### 3. Toujours de la presse.
 
 Il reste les journaux des parties dans chacun des pays. Volkisher Beobachter en Allemagne Pravda en URSS Il popolo d'Italia en Italie. De plus l’URSS ferment les églises alors que l’Italie et l’Allemagne non
 
-4. Culte de la personnalité
+### 4. Culte de la personnalité
 
 Tableau poème statu à l’honneur des dirigeants
 
 ## B-) L’encadrement de la société
 
-1. Italie
+### 1. Italie
 
 Quatre ans, (les fils et filles de la Louvre) entre 8 et 16 ans (Balillas) À partir de 16 ans, les jeunesses fasciste. on y voute un culte de la violence de la rapidité chez les garçons alors qu’on apprend au fille cuisine etc.
 
-2. Allemagne
+### 2. Allemagne
 
 la jeunesse hitlériennes et les uniforme pour tous même volonté de faire des soldats; Genrés
 
-3. URSS
+### 3. URSS
 
 Jeunesse communiste on leur apprend l'idéologie dès le début, pas d’apprentissage militaire car le communisme s’exporte par l’idée pas par les armes ils instruisent tout le monde (population agricole, fille etc) Il n’y a plus de différence vie public et vie privée. L’individu cesse d’exister, certains mouvements d’opposition telles que la rose blanche apparaissent mais ils sont vite arrêté.
 
