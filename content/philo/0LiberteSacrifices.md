@@ -2,7 +2,7 @@
 title: 0️⃣ Libertés et Sacrifices
 ---
 
-#### Fiche écrite par Guilhem :D
+> [!Todo] Fiche écrite par Guilhem :D
 
 # 📖 Texte
 - 👤 Auteur: **Ian Patocka**

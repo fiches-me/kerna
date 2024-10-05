@@ -2,7 +2,7 @@
 title: 1️⃣ Le désir de vérité - La quête de l'essence
 ---
 
-#### Fiche écrite par Guilhem :D[^1]
+> [!Todo] Fiche écrite par Guilhem :D
 
 # 📖 Texte
 - 📜 La République V
@@ -71,5 +71,3 @@ Cependant, avec cette définition, on risque de confondre l'intellectuel et le p
 La pensé est définit fondamentalement comme un bien véritable. Hors la plupart des hommes ne prennent pas soin de leurs pensées.
 
 Le philodoxe est celui qui aime l’opinion, l'apparence. 
-
-[^1]: Note: je fait du mieux que je peux pour rendre la fiche lisible et cohérente, mais plus on avance dans le cours et plus les exemples se mélangent et sont de plus en plus confus.
