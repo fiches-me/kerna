@@ -1,4 +1,4 @@
-#### Fiche écrite par Elodie
+#### Fiche écrite par Élodie
 
 # Prologue la crise des années 30 : le krach boursier de 1929
  
