@@ -52,7 +52,7 @@ description:
 - <span class="callout" data-callout="success" >1929</span> : Obligation des Kolkhoze et Sovkhoze
 - <span class="callout" data-callout="success" >1932-1933</span> : Holodomor
 - <span class="callout" data-callout="success" >1936-1938</span> :  Procès de Moscou
-- <span class="callout" data-callout="danger" >9-10 Novembre 1938</span> : Nuits des longs couteaux
+- <span class="callout" data-callout="danger" >9-10 Novembre 1938</span> : Nuit de crystal
 
 
 <style>
