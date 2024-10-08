@@ -7,6 +7,9 @@ description:
 # 🗃️ Plan
 # 1️⃣ Mise en place en fondements idéologiques
 ## 🅰️ Des régies nées de la guerre et des crises
+### La Russie, un coup d’état
+### L’Italie, un coup de force
+### L’Allemagne, une arrivée démocratique au pouvoir
 ## 🅱️ La mise en place des régimes totalitaires
 ## 🅾️ Des bases idéologiques différentes
 # 2️⃣ Formes et caractéristiques des régimes totalitaires
