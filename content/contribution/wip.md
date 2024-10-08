@@ -11,6 +11,10 @@ description:
 ### L’Italie, un coup de force
 ### L’Allemagne, une arrivée démocratique au pouvoir
 ## 🅱️ La mise en place des régimes totalitaires
+### Régime parti unique
+### Régime antidémocratique
+### Toujours de la presse.
+### Culte de la personnalité
 ## 🅾️ Des bases idéologiques différentes
 # 2️⃣ Formes et caractéristiques des régimes totalitaires
 ## 🅰️ Un pouvoir exercé d'une manière dictatoriale
