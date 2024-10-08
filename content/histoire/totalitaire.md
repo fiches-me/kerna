@@ -15,7 +15,7 @@ La crise économique se propage en Europe les banquiers américains rapatrie leu
 # Introduction : 
 
 Les régimes totalitaires se sont développés en Europe durant l’entre deux guerre. Seul celui d'URSS a survécu à 1945, bien qu’il soit idéologiquement différent, leur trait de fonctionnement on contribuer à la création du concept de totalitarisme.  
-totalitarisme : régime politique de nature dictatoriale, au sein duquel l’État, au mains d’un homme, parti, idéologie, exerce un pouvoir total sans limite ni partage.
+> **Totalitarisme** : régime politique de nature dictatoriale, au sein duquel l’État, au mains d’un homme, parti, idéologie, exerce un pouvoir total sans limite ni partage.
 
 # I mise en place et fondement idéologique :
 
