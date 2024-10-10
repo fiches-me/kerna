@@ -48,9 +48,9 @@ La guerre est un moyent de revivifier la nation + origine dans l'âme nordique q
 ### URSS
 Guerre considéré comme capitaliste et uniquement utilisé pour défense ; la vrais guerre est idéologique, psychologique et non physique
 ## 🅱️ L'échec de la sécurité collective
-###
+La SDN ets en échec total ; aucune récidive est faites du au contexte d'élections politique et la volonté desr et en d'arrêter la guerre. Remillitarisation, invasion de la Rhénanie puis des sudettes le 1er octobre 38
 ## 🅾️ La marche à la guerre
-###
+Invasions des sudettes puis de la Pologne par l'Allemagne
 
 # 📆 Dates
 > Note : <span class="callout" data-callout="success">Russie</span>, <span class="callout" data-callout="danger" >Italie</span> et <span class="callout" data-callout="question" >Allemagne</span>.
