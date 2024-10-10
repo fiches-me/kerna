@@ -4,20 +4,37 @@ description:
 ---
 
 # 🤐 Les régimes totalitaires
-# 🗃️ Plan
+# Introduction
+Prospérité après la guerre aux US. Crise paysane en 26 + bulle spéculative = crack boursier de octobre 29. Argent retiré d'Europe, dévaluation du dollar et "*New Deal*" de Roosevelt
 # 1️⃣ Mise en place en fondements idéologiques
 ## 🅰️ Des régies nées de la guerre et des crises
 ### La Russie, un coup d’état
+Russie désunis entre un peule rural et une oligarchie (Tsar). Guerre civile Blanc VS Rouge gagné par Lénine. Constitution de l'URSS en 1922.
 ### L’Italie, un coup de force
+Italie déchue après une guerre faussement gagné. Instructions révolutionnaires (contrôle des champs/usines) -> arrivé des Faisaux Italiens de combats pour les déloger (1919). 20 : partit politique. 30/10/22 : Coup d'état (ultimatum) donc nommé premier ministre.
 ### L’Allemagne, une arrivée démocratique au pouvoir
+Subit le traité de Versailles comme un Diktat. DAP -> NSDAP. 23, économie allemande toujours en bas. 9/11/23 PUTSCH de la brasserie -> cinq ans de prisons mais 1 réellement fait. Montée démocratique du NSDAP et Hitler est nommé chancelier le 30/01/1933
 ## 🅱️ La mise en place des régimes totalitaires
-### Régime parti unique
-### Régime antidémocratique
-### Toujours de la presse.
+### Allemagne
+27 Février 33 : Incendie du Reichstag > plus de communistes
+23 Mars : plein pouvoirs
+### Italie
+22 : Affaire Mateotti
+24 : Lois Fascistes
+### URSS
+Janvier 24 : Mort de Lénine
 ### Culte de la personnalité
 ## 🅾️ Des bases idéologiques différentes
+### Allemagne
+### Italie
+Revanche nationaliste
+### URSS
+Idéologie communiste
 # 2️⃣ Formes et caractéristiques des régimes totalitaires
 ## 🅰️ Un pouvoir exercé d'une manière dictatoriale
+### Régime parti unique
+### Régime antidémocratique
+### Toujours de la presse mais contrôlé/presse d'état.
 ## 🅱️ L'encadrement de la société
 ## 🅾️ La terreur comme mode de gouvernement et de soumission
 # 3️⃣ Les démocraties européennes à l'épreuve des régimes totalitaires
