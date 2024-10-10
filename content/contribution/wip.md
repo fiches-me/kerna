@@ -7,7 +7,7 @@ description:
 # Introduction
 Prospérité après la guerre aux US. Crise paysane en 26 + bulle spéculative = crack boursier de octobre 29. Argent retiré d'Europe, dévaluation du dollar et "*New Deal*" de Roosevelt
 # 1️⃣ Mise en place en fondements idéologiques
-## 🅰️ Des régies nées de la guerre et des crises
+## 🅰️ Des régimes nées de la guerre et des crises
 ### La Russie, un coup d’état
 Russie désunis entre un peule rural et une oligarchie (Tsar). Guerre civile Blanc VS Rouge gagné par Lénine. Constitution de l'URSS en 1922.
 ### L’Italie, un coup de force
