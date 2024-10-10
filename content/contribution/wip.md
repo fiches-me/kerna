@@ -9,9 +9,9 @@ Prospérité après la guerre aux US. Crise paysane en 26 + bulle spéculative =
 # 1️⃣ Mise en place en fondements idéologiques
 ## 🅰️ Des régimes nées de la guerre et des crises
 ### La Russie, un coup d’état
-Russie désunis entre un peule rural et une oligarchie (Tsar). Guerre civile Blanc VS Rouge gagné par Lénine. Constitution de l'URSS en 1922.
+Russie désunis entre un peuple rural et une oligarchie (Tsar). Guerre civile Blanc VS Rouge gagnée par Lénine. Constitution de l'URSS créé en 1922.
 ### L’Italie, un coup de force
-Italie déchue après une guerre faussement gagné. Instructions révolutionnaires (contrôle des champs/usines) -> arrivé des Faisaux Italiens de combats pour les déloger (1919). 20 : partit politique. 30/10/22 : Coup d'état (ultimatum) donc nommé premier ministre.
+Italie déchue après une guerre faussement gagné. Insurrections révolutionnaires (contrôle des champs/usines) -> arrivé des Faisaux Italiens de combats pour les déloger (1919). *20 : partit politique*. 30/10/22 : Coup d'état (ultimatum) donc nommé premier ministre.
 ### L’Allemagne, une arrivée démocratique au pouvoir
 Subit le traité de Versailles comme un Diktat. DAP -> NSDAP. 23, économie allemande toujours en bas. 9/11/23 PUTSCH de la brasserie -> cinq ans de prisons mais 1 réellement fait. Montée démocratique du NSDAP et Hitler est nommé chancelier le 30/01/1933
 ## 🅱️ La mise en place des régimes totalitaires
@@ -23,6 +23,7 @@ Subit le traité de Versailles comme un Diktat. DAP -> NSDAP. 23, économie alle
 26 : Lois Fascistes
 ### URSS
 Janvier 24 : Mort de Lénine
+28 : Staline homme fort 
 ## 🅾️ Des bases idéologiques différentes
 ### Allemagne
 ### Italie
@@ -36,11 +37,17 @@ Idéologie communiste
 ### Toujours de la presse mais contrôlé/presse d'état.
 ### Culte de la personnalité
 ## 🅱️ L'encadrement de la société
-## 🅾️ La terreur comme mode de gouvernement et de soumission
+### Loisirs gérés par l'état
+## 🅾️ La terreur comme mode de 
+gouvernement et de soumission
+### Auto Surveillance
 # 3️⃣ Les démocraties européennes à l'épreuve des régimes totalitaires
 ## 🅰️ Première remise en question de l'ordre européen
+###
 ## 🅱️ L'échec de la sécurité collective
+###
 ## 🅾️ La marche à la guerre
+###
 
 # 📆 Dates
 > Note : <span class="callout" data-callout="success">Russie</span>, <span class="callout" data-callout="danger" >Italie</span> et <span class="callout" data-callout="question" >Allemagne</span>.
