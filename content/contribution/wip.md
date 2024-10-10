@@ -43,7 +43,10 @@ gouvernement et de soumission
 ### Auto Surveillance
 # 3️⃣ Les démocraties européennes à l'épreuve des régimes totalitaires
 ## 🅰️ Première remise en question de l'ordre européen
-###
+### Italie et Allemagne
+La guerre est un moyent de revivifier la nation + origine dans l'âme nordique que recherche Hitler
+### URSS
+Guerre considéré comme capitaliste et uniquement utilisé pour défense ; la vrais guerre est idéologique, psychologique et non physique
 ## 🅱️ L'échec de la sécurité collective
 ###
 ## 🅾️ La marche à la guerre
