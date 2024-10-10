@@ -38,8 +38,7 @@ Idéologie communiste
 ### Culte de la personnalité
 ## 🅱️ L'encadrement de la société
 ### Loisirs gérés par l'état
-## 🅾️ La terreur comme mode de 
-gouvernement et de soumission
+## 🅾️ La terreur comme mode de gouvernement et de soumission
 ### Auto Surveillance
 # 3️⃣ Les démocraties européennes à l'épreuve des régimes totalitaires
 ## 🅰️ Première remise en question de l'ordre européen
