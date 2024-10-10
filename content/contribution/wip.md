@@ -23,7 +23,6 @@ Subit le traité de Versailles comme un Diktat. DAP -> NSDAP. 23, économie alle
 26 : Lois Fascistes
 ### URSS
 Janvier 24 : Mort de Lénine
-### Culte de la personnalité
 ## 🅾️ Des bases idéologiques différentes
 ### Allemagne
 ### Italie
@@ -35,6 +34,7 @@ Idéologie communiste
 ### Régime parti unique
 ### Régime antidémocratique
 ### Toujours de la presse mais contrôlé/presse d'état.
+### Culte de la personnalité
 ## 🅱️ L'encadrement de la société
 ## 🅾️ La terreur comme mode de gouvernement et de soumission
 # 3️⃣ Les démocraties européennes à l'épreuve des régimes totalitaires
