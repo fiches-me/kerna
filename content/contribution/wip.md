@@ -19,8 +19,8 @@ Subit le traité de Versailles comme un Diktat. DAP -> NSDAP. 23, économie alle
 27 Février 33 : Incendie du Reichstag > plus de communistes
 23 Mars : plein pouvoirs
 ### Italie
-22 : Affaire Mateotti
-24 : Lois Fascistes
+24 : Affaire Mateotti   
+26 : Lois Fascistes
 ### URSS
 Janvier 24 : Mort de Lénine
 ### Culte de la personnalité
