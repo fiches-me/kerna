@@ -18,11 +18,11 @@ L'ouvrage de **La République** a pour but de mener une réflexion sur ce qu'est
 > *Le désir est l'experience d'un manque, de la conscience de ce manque et de l’impulsion qui est sensé résoudre ce manque.*
 
 La première partie du texte interroge l'aspect étymologique du mot **philosophie**. Dans l'idée, $$philo$$ signifie **désir** ou **amour** et $$sophia$$ serait **sagesse**. Ce passage ne définit pas la sagesse, mais en revanche utilise la notion de désir.
-La première partie du texte interroge l'aspect étymologique du mot **philosophie**. Dans l'idée, $$philo$$ signifie **désir** ou **amour** et $$sophia$$ serait **sagesse**. Ce passage ne définit pas la sagesse, mais en revanche utilise la notion de désir.
+La première partie du texte interroge l'aspect étymologique du mot **philosophie**. Ce passage ne définit pas la sagesse, mais en revanche utilise la notion de désir.
 
-En effet, il utilise des exemples tel qu el'amateur de vin pour justifier son hypothèse que le philosophe n'est pas quelqu'un avec l'amour d'un savoir en particulier mais de toute la sagesse, dans son ensemble, *tel qu'un amateur de vin apprécie tout bon vin*.
+En effet, il utilise des exemples tel que l'amateur de vin pour justifier son hypothèse que le philosophe n'est pas quelqu'un avec l'amour d'un savoir en particulier mais de toute la sagesse, dans son ensemble, *tel qu'un amateur de vin apprécie tout bon vin*.
 
-Mais comparé à la définition juste au dessus, cela signifierais que le philosophe n'est en réalité pas sage car il désir ce qu'il n'a pas ? La suite du texte va essayer de distinguer le philosophe d'une autre manière, en utilisant quelque chose qui lui ressemble et quelque chose de complètement opposé.
+Mais comparé à la définition juste au dessus, cela signifierais que le philosophe n'est en réalité pas sage car il désir ce qu'il n'a pas. La suite du texte va essayer de distinguer le philosophe d'une autre manière, en utilisant quelque chose qui lui ressemble et quelque chose de complètement opposé.
 
 ## 🌫️ Misologie et indifférence au savoir
 

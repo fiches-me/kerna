@@ -2,16 +2,16 @@
 title: ⚠️ WIP
 ---
 
-I Comment les questions environnementales deviennent-elles des problèmes publics et politiques.
+# Comment les questions environnementales deviennent-elles des problèmes publics et politiques.
 
-Introduction : 
+## Introduction : 
 mise à l’agenda politique : 
 processus qui vise à transformer un problème donné en un problème public qui fera l’objet d’une décision politique 
 
-action publique : 
-action menée par une autorité publique afin de traiter une situation perçue comme un problème. 
+> [!DEFINITION]
+> **Action publique** : Action menée par une autorité publique afin de traiter une situation perçue comme un problème. 
 
-A-) Dans un premier temps, différents acteurs contribuent à faire émerger les questions environnementales dans le débat public…
+## A. Dans un premier temps, différents acteurs contribuent à faire émerger les questions environnementales dans le débat public…
 Les différents acteurs concernés 
 
 
@@ -165,12 +165,8 @@ coûteuse
 risque d’aubaine (= subventionner une entreprise qui avait de toute façon prévu d’innover) = mauvaise allocation des ressources 
 ne pousse pas les acteurs économiques à faire le mieux possible et n’implique pas d’obligation de résultat. 
 
-
-
-la taxation 
-
-Taxation :
-prélèvement fiscal obligatoire effectué par l’Etat et destiné à inciter les acteurs économiques à modifier leur comportement. 
+> [!DEFINITION] 
+> **Taxation** : Prélèvement fiscal obligatoire effectué par l’Etat et destiné à inciter les acteurs économiques à modifier leur comportement. 
 
 (ici en faveur de la préservation du climat)
 La taxation écologique est basée sur le principe de pollueur-payeur : plus on pollue, plus on paie ; moins on pollue moins on paie. 

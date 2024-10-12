@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d27126b1098f2435",
+    "type": "split",
+    "children": [
+      {
+        "id": "77fb92aa33c2d4d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3871a057dcab720e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/ses/environement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59d31f3c08bbad06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/ses/environement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e79ed533c0b1b49",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cc5213d46b67b3d3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db5239ef2e2d98af",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5f9c18836a74c84d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d2a51b1908b77e93",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f688a7128c9fb924",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "43aeed15a90e7c47",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/ses/environement.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0214902528275a10",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/ses/environement.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "478e4dcd7173aac0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/ses/environement.md"
+          }
+        }
+      },
+      {
+        "id": "7c13e898dcf9981f",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "59d31f3c08bbad06",
+  "lastOpenFiles": [
+    "content/ses/index.md",
+    "content/ses/environement.md",
+    "content/philo/1RepubliqueV.md",
+    "content/philo/90methodedisert.md",
+    "Untitled.md",
+    "/content/contribution/wip.md",
+    "content/histoire/totalitaire.md",
+    "content/index.md",
+    "content/philo/0LiberteSacrifices.md",
+    "/quartz.config.ts",
+    "/content/histoire/totalitaire.md",
+    "tsconfig.json",
+    "quartz.layout.ts",
+    "quartz.config.ts",
+    "quartz/worker.ts",
+    "quartz/util/trace.ts",
+    "quartz/util/theme.ts",
+    "quartz/util/sourcemap.ts",
+    "quartz/util/resources.tsx",
+    "quartz/util/perf.ts",
+    "quartz/static/og-image.png",
+    "quartz/static/icon.png",
+    "content/physique/wip.md",
+    "content/physique/index.md",
+    "content/philo/index.md",
+    "content/maths-exp/index.md",
+    "content/maths-exp/complexes.md",
+    "content/maths/suites/index.md",
+    "content/maths/suites/8somme.md",
+    "content/maths/suites/7divergente.md",
+    "content/maths/suites/6convergente.md",
+    "content/maths/suites/5bernoulli.md",
+    "content/maths/suites/4recurrence.md",
+    "content/maths/suites/3variation.md",
+    "content/maths/suites/2geometrique.md",
+    "content/maths/suites/1arithmetique.md",
+    "content/maths/index.md",
+    "content/histoire/index.md"
+  ]
+}
