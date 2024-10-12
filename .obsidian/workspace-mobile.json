@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/ses/environement.md",
+                "file": "content/contribution/101.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/ses/environement.md",
+            "file": "content/contribution/101.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/ses/environement.md",
+            "file": "content/contribution/101.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/ses/environement.md"
+            "file": "content/contribution/101.md"
           }
         }
       },
@@ -153,10 +153,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59d31f3c08bbad06",
+  "active": "7c13e898dcf9981f",
   "lastOpenFiles": [
-    "content/ses/index.md",
+    "Untitled 1.md",
+    "content/contribution/github.md",
+    "content/histoire/wip.md",
+    "content/histoire/index.md",
     "content/ses/environement.md",
+    "content/ses/index.md",
     "content/philo/1RepubliqueV.md",
     "content/philo/90methodedisert.md",
     "Untitled.md",
@@ -188,10 +192,6 @@
     "content/maths/suites/6convergente.md",
     "content/maths/suites/5bernoulli.md",
     "content/maths/suites/4recurrence.md",
-    "content/maths/suites/3variation.md",
-    "content/maths/suites/2geometrique.md",
-    "content/maths/suites/1arithmetique.md",
-    "content/maths/index.md",
-    "content/histoire/index.md"
+    "content/maths/suites/3variation.md"
   ]
 }
