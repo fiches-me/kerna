@@ -155,6 +155,8 @@
   },
   "active": "59d31f3c08bbad06",
   "lastOpenFiles": [
+    "content/contribution/index.md",
+    "content/contribution/101.md",
     "content/ses/environement.md",
     "Untitled 1.md",
     "content/contribution/github.md",
@@ -190,8 +192,6 @@
     "content/maths/suites/8somme.md",
     "content/maths/suites/7divergente.md",
     "content/maths/suites/6convergente.md",
-    "content/maths/suites/5bernoulli.md",
-    "content/maths/suites/4recurrence.md",
-    "content/maths/suites/3variation.md"
+    "content/maths/suites/5bernoulli.md"
   ]
 }
