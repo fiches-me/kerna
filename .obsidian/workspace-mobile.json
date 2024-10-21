@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "101"
             }
+          },
+          {
+            "id": "d334dea7679e2519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/philo/gorgias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gorgias"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,10 +187,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59d31f3c08bbad06",
+  "active": "d334dea7679e2519",
   "lastOpenFiles": [
-    "content/contribution/index.md",
+    "content/philo/0LiberteSacrifices.md",
+    "content/philo/gorgias.md",
     "content/contribution/101.md",
+    "content/contribution/index.md",
     "content/ses/environement.md",
     "Untitled 1.md",
     "content/contribution/github.md",
@@ -185,11 +201,9 @@
     "content/ses/index.md",
     "content/philo/1RepubliqueV.md",
     "content/philo/90methodedisert.md",
-    "Untitled.md",
     "/content/contribution/wip.md",
     "content/histoire/totalitaire.md",
     "content/index.md",
-    "content/philo/0LiberteSacrifices.md",
     "/quartz.config.ts",
     "/content/histoire/totalitaire.md",
     "tsconfig.json",
