@@ -3,7 +3,7 @@ title: Résumé Gorgias
 ---
 
 > [!Todo] Fiche écrite par Guilhem :D
-> Résumé de l'édition GF de Gorgias de 1996. Scanné avec de l'IA - certains mots ont peut être été coupés.
+> Résumé de l'édition GF 1997 de Gorgias. Scanné avec de l'IA - certains mots sont peut être coupés.
 
 L'ensemble du Gorgias est scandé par les changements d'interlocuteurs. Socrate s'entretient avec Gorgias, puis avec Polos, enfin avec Calliclès, avant de ne parler, pour ainsi dire, qu'avec lui-même. Ces quatre séquences principales sont précédées par une courte introduction qui présente les acteurs du dialogue ; et elles se concluent sur un mythe, que Socrate raconte, et qui semble valoir comme la conclusion du dialogue. Le Gorgias est un entretien direct, dans lequel les interlocuteurs parlent pour eux-mêmes et qui, exception faite du mythe final, ne comprend aucun récit.
  Présentation : lieu et acteurs.
