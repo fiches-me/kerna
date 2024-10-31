@@ -32,7 +32,9 @@ Le texte utilise d'abord l'idée du **réfractaire à la connaissance**, complè
 Celui si désir en outre quelque chose d'autre ; l'argent, le bonheur, la reconnaissance ; et considère le savoir comme une perte de temps, la philosophie comme un bavardage vain.
 
 Pour appuier cette position, nous nous basons sur une citation du Georgias, 3em, entre Socrate et Calliclès. Ils développent l'idée suivante : 
->  ## "*La philosophie est un bavardage inutile et dangereux.*"
+
+## "*La philosophie est un bavardage inutile et dangereux.*"
+
 ### Un bavardage inutile...
 La philosophie n'est pas lucrative ; elle n'apporte que la vérité, mais qui elle même n'apporte aucun pouvoir. Elle éloigne du monde des affaires, des intérêts économiques, ce qui compte vraiment et forme une vie heureuse.
 
@@ -70,4 +72,10 @@ Cependant, avec cette définition, on risque de confondre l'intellectuel et le p
 
 La pensé est définit fondamentalement comme un bien véritable. Hors la plupart des hommes ne prennent pas soin de leurs pensées.
 
-Le philodoxe est celui qui aime l’opinion, l'apparence. 
+Le philodoxe est celui qui aime l’opinion, l'apparence. Avec cette proposition, on est amené à définir l'essence.
+
+| Philodoxe                       | Philosophe                                   |
+| :-----------------------------: | :------------------------------------------: |
+| $$doxa$$ = opinions = croyances | connaissance -> rendre raison de son propos. |
+| ↪️ basé sur les apparences     | ↪️ Essence : Q?                              |
+| ↪️ Mais apparence temporelle   | ↪️ Essence éternelle, immuable                |
