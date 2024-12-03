@@ -1,5 +1,5 @@
 ---
-title: Bilan - Première Partie
+title: "*️⃣ Bilan - Première Partie"
 ---
 
 # Notions

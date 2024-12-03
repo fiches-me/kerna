@@ -1,5 +1,6 @@
 ---
 title: L'allégorie de la caverne
+draft: true
 ---
 
 ```html
