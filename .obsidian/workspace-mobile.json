@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/philo/gorgias.md",
+                "file": "content/philo/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gorgias"
+              "title": "index"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Explorateur de fichiers"
         }
       },
       {
@@ -178,19 +178,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "d334dea7679e2519",
   "lastOpenFiles": [
-    "content/philo/0LiberteSacrifices.md",
     "content/philo/gorgias.md",
+    "content/philo/90methodedisert.md",
+    "content/philo/0LiberteSacrifices.md",
     "content/contribution/101.md",
     "content/contribution/index.md",
     "content/ses/environement.md",
@@ -200,7 +201,6 @@
     "content/histoire/index.md",
     "content/ses/index.md",
     "content/philo/1RepubliqueV.md",
-    "content/philo/90methodedisert.md",
     "/content/contribution/wip.md",
     "content/histoire/totalitaire.md",
     "content/index.md",
