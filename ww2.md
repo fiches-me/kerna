@@ -2,6 +2,7 @@
 title: 💥 Guerre Mondiale
 draft: false
 ---
+## ⌛️ Timeline
 **22/06/41** : opération Barbarosa. En finir avec le Judeobolchévisme et espace vitale -> romp le pacte de non agression. 4 offensives :
 - Leningrade
 - Kiev -> chute le 19/09/41
@@ -22,8 +23,8 @@ Reprise via Égypte de Algérie Maroc Tunisie Libie
 10/07/43
 24/07/43 -> Mussolini destitué et arrêté
 
-## Une guerre d'anéantissement
-### Violences & Crimes de guerre
+## 🩸 Une guerre d'anéantissement
+### 💣 Violences & Crimes de guerre
 Exactions contres pop ; pillages meutres & vX
 1 Allemand = 50 civils
 Russie et US aussi violents
@@ -31,7 +32,7 @@ Japonais pas sympa
 
 Bombardements de but civils -> coventry -> blitz
 
-### Génocides & crimes contres  l'humanité
+### ☠️ Génocides & crimes contres  l'humanité
 #### Définitions
 - Génocide : entrée dans les droits de l'ONU en 48
 - Crime contre $H$ : créé à Nuremberg
@@ -40,3 +41,9 @@ Bombardements de but civils -> coventry -> blitz
 - Violence progressive dans le discours- mais aucun passage à l'acte
 - -> début de la guerre : peure
 - Assimilation virale, Vermine
+
+## 🥖 La France pdt la guerre
+### 🤷‍♂️ "*L'étrange défaite*" (Mark Block)
+-> vieux.
+
+### 🧙‍♂️ Gouvetnement de Vichy 
