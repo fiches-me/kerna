@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/contribution/101.md",
+                "file": "content/histoire/ww2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101"
+              "title": "ww2"
             }
           }
         ],
@@ -173,13 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c13e898dcf9981f",
+  "active": "679d51e4923a3b0b",
   "lastOpenFiles": [
+    "content/histoire/wip.md",
+    "content/contribution/101.md",
     "content/contribution/github.md",
     "content/contribution/aide.md",
-    "content/contribution/101.md",
     "content/index.md",
-    "content/histoire/wip.md",
     "content/histoire/totalitaire.md",
     "content/histoire/ww2.md",
     "content/ses/environement.md",
