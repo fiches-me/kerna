@@ -9,7 +9,7 @@ draft: false
 3. Infanterie
 Pologne liquidé en un mois. Alié de la France & Angleterre -> déclaration de guerre
 
-##### Drôle De Guerre (10/39 - 04/40)
+##### Drôle De Guerre (09/39 - 04/40)
 Échec de coupure à Narvik. Mais échec
 
 ##### Début de la bataille de France (13/05/40)
@@ -33,7 +33,7 @@ Midway 2-4/06/42. Japonais perdent à cause de mauvaises communications
 ##### -> guerre en Afrique
 Reprise via Égypte de Algérie Maroc Tunisie Libie
 ##### -> URSS vainqueur
--> Stalinegrad 10/42 02/43 
+-> Stalinegrad 09/42 02/43 
 -> 500k hommes envoyés
 -> von palus se rend contre l'avis d'hitler
 **Très grand tournant dans la guerre**
