@@ -9,7 +9,14 @@ draft: false
 3. Infanterie
 Pologne liquidé en un mois. Alié de la France & Angleterre -> déclaration de guerre
 
-### 🛑 Les défaites de l'axe
+##### Drôle De Guerre (10/39 - 04/40)
+Échec de coupure à Narvik. Mais échec
+
+##### Début de la bataille de France (13/05/40)
+Viole la neutralité de la Belgique
+14juin : paris prit
+17juin : armistice
+
 **22/06/41** : opération Barbarosa. En finir avec le Judeobolchévisme et espace vitale -> romp le pacte de non agression. 4 offensives :
 - Leningrade
 - Kiev -> chute le 19/09/41
@@ -17,18 +24,24 @@ Pologne liquidé en un mois. Alié de la France & Angleterre -> déclaration de 
 - Bakou -> résiste
 
 Arrêt hiver 41
-Peral Harbor -> entrée des us en guère 09/12/41-> fournit des armes
+Peral Harbor -> entrée des us en guère 09/12/41 -> fournit des armes
+
+
+### 🛑 Les défaites de l'axe
 ##### -> guerre dans le pacifique
-Midway 2-4/06/42. Japonais perdent café mauvaise communication
+Midway 2-4/06/42. Japonais perdent à cause de mauvaises communications
 ##### -> guerre en Afrique
 Reprise via Égypte de Algérie Maroc Tunisie Libie
 ##### -> URSS vainqueur
 -> Stalinegrad 10/42 02/43 
 -> 500k hommes envoyés
 -> von palus se rend contre l'avis d'hitler
-##### -> débarquement en Sicile 
-10/07/43
+**Très grand tournant dans la guerre**
+##### -> débarquement en Sicile (10/07/43)
 24/07/43 -> Mussolini destitué et arrêté
+
+### ✌️ Vers la victoire des alliés
+Requonquete de l'Europe de l'ouest
 
 ## 🩸 Une guerre d'anéantissement
 ### 💣 Violences & Crimes de guerre
@@ -48,9 +61,10 @@ Bombardements de but civils -> coventry -> blitz
 - Violence progressive dans le discours- mais aucun passage à l'acte
 - -> début de la guerre : peure
 - Assimilation virale, Vermine
-
+#### Chronologie
 ## 🥖 La France pdt la guerre
 ### 🤷‍♂️ "*L'étrange défaite*" (Mark Block)
 -> vieux.
-
 ### 🧙‍♂️ Gouvernement de Vichy 
+### 🏹 La collaboration & La résistance
+
