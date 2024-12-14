@@ -10,13 +10,14 @@ draft: false
 Pologne liquidé en un mois. Alié de la France & Angleterre -> déclaration de guerre
 
 #### Drôle De Guerre (09/39 - 04/40)
-Échec de coupure à Narvik. Mais échec
+Échec de coupure à Narvik.
 
 #### Début de la bataille de France (13/05/40)
 Viole la neutralité de la Belgique
 14juin : paris prit
 17juin : armistice
 ## 🌏 L'extension du conflit (41/43)
+Xxx
 
 **22/06/41** : opération Barbarosa. En finir avec le Judeobolchévisme et espace vitale -> romp le pacte de non agression. 4 offensives :
 - Leningrade
@@ -27,7 +28,7 @@ Viole la neutralité de la Belgique
 Arrêt hiver 41
 Peral Harbor -> entrée des us en guère 09/12/41 -> fournit des armes
 
-
+Xxx
 ## 🛑 Les défaites de l'axe
 #### -> guerre dans le pacifique
 Midway 2-4/06/42. Japonais perdent à cause de mauvaises communications
@@ -63,9 +64,12 @@ Bombardements de but civils -> coventry -> blitz
 - -> début de la guerre : peure
 - Assimilation virale, Vermine
 #### Chronologie
+- Xxx
 # 🥖 La France pdt la guerre
 ## 🤷‍♂️ "*L'étrange défaite*" (Mark Block)
 -> vieux.
 ## 🧙‍♂️ Gouvernement de Vichy 
+Xxx
 ## 🏹 La collaboration & La résistance
+Xxx
 
