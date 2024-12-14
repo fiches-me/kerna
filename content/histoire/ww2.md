@@ -16,6 +16,7 @@ Pologne liquidé en un mois. Alié de la France & Angleterre -> déclaration de 
 Viole la neutralité de la Belgique
 14juin : paris prit
 17juin : armistice
+### 🌏 L'extension du conflit (41/43)
 
 **22/06/41** : opération Barbarosa. En finir avec le Judeobolchévisme et espace vitale -> romp le pacte de non agression. 4 offensives :
 - Leningrade
