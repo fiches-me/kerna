@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/histoire/ww2.md",
+                "file": "content/physique/wip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ww2"
+              "title": "wip"
             }
           }
         ],
@@ -95,6 +95,20 @@
           "state": {},
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "05db1ef31c00092f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Toutes les propriétés"
         }
       }
     ],
@@ -170,18 +184,28 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "publish:Publier les modifications": false
     }
   },
   "active": "679d51e4923a3b0b",
   "lastOpenFiles": [
+    "content/physique/index.md",
+    "content/emc/wip.md",
+    "content/emc/index.md",
+    "content/geo/wip.md",
+    "content/geo/index.md",
+    "content/geopolitique/wip.md",
+    "content/geopolitique/index.md",
+    "content/maths-exp/complexes.md",
+    "content/ses/index.md",
+    "content/index.md",
+    "content/histoire/totalitaire.md",
+    "content/histoire/ww2.md",
     "content/histoire/wip.md",
     "content/contribution/101.md",
     "content/contribution/github.md",
     "content/contribution/aide.md",
-    "content/index.md",
-    "content/histoire/totalitaire.md",
-    "content/histoire/ww2.md",
     "content/ses/environement.md",
     "/content/philo/gorgias.md",
     "content/philo/disert.md",
@@ -192,17 +216,8 @@
     "content/philo/ch1/index.md",
     "content/philo/ch1/g2.md",
     "/content/philo/ch1/g1.md",
-    "content/philo/ch1/caverne.md",
-    "content/philo/ch1/bilan-g1.md",
-    "/content/philo/def.md",
-    "/content/philo/ch1/intro.md",
-    "/content/philo/ch1/index.md",
-    "/content/philo/ch1/g2.md",
-    "/content/philo/ch1/caverne.md",
-    "/content/philo/ch1/bilan-g1.md",
     "content/philo/ch1",
     "/content/philo/ch1",
-    "content/philo/index.md",
     "/quartz.config.ts",
     "tsconfig.json",
     "quartz.layout.ts",

@@ -4,7 +4,7 @@ title: Les nombres complexes
 
 > [!BUG] Fiche écrite par Samuel
 
-# Pourquoi a t'on inventé les nombres complexes ?
+# Pourquoi a t-on inventé les nombres complexes ?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M-qGTSL2yzM?si=wPzHb7v51AKxhZdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -1,3 +1,4 @@
 ---
 title: 🗳️ EMC
+draft: true
 ---

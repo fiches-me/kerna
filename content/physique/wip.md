@@ -1,5 +1,6 @@
 ---
 title: ⚠️ Manque de rédacteur
+draft: true
 ---
 
 > [!QUESTION] Aucune page rédigé

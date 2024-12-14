@@ -1,5 +1,5 @@
 ---
-title: Les Régimes Totalitaires
+title: 💢 Les Régimes Totalitaires
 ---
 > [!EXAMPLE] Fiche écrite par Élodie
 
