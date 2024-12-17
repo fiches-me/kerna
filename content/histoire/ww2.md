@@ -11,7 +11,6 @@ Pologne liquidé en un mois. Alié de la France & Angleterre -> déclaration de 
 
 #### Drôle De Guerre (09/39 - 04/40)
 Échec de coupure à Narvik.
-
 #### Début de la bataille de France (13/05/40)
 Viole la neutralité de la Belgique
 14juin : paris prit
@@ -26,7 +25,7 @@ Xxx
 - Bakou -> résiste
 
 Arrêt hiver 41
-Peral Harbor -> entrée des us en guère 09/12/41 -> fournit des armes
+Peral Harbor -> entrée des us en guère le 09/12/41 -> fournit des armes
 
 Xxx
 ## 🛑 Les défaites de l'axe

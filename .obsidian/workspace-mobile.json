@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/physique/wip.md",
+                "file": "content/philo/ch1/g2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wip"
+              "title": "g2"
             }
           }
         ],
@@ -181,15 +181,23 @@
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-git:Open Git source control": false,
-      "publish:Publier les modifications": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "679d51e4923a3b0b",
   "lastOpenFiles": [
+    "content/philo/ch1/index.md",
+    "content/philo/def.md",
+    "content/philo/ch1/intro.md",
+    "content/philo/ch1/g2.md",
+    "content/histoire/totalitaire.md",
+    "content/histoire/ww2.md",
+    "content/ses/environement.md",
+    "content/ses/index.md",
+    "README.md",
+    "content/physique/wip.md",
     "content/physique/index.md",
     "content/emc/wip.md",
     "content/emc/index.md",
@@ -198,24 +206,14 @@
     "content/geopolitique/wip.md",
     "content/geopolitique/index.md",
     "content/maths-exp/complexes.md",
-    "content/ses/index.md",
     "content/index.md",
-    "content/histoire/totalitaire.md",
-    "content/histoire/ww2.md",
     "content/histoire/wip.md",
     "content/contribution/101.md",
     "content/contribution/github.md",
     "content/contribution/aide.md",
-    "content/ses/environement.md",
     "/content/philo/gorgias.md",
     "content/philo/disert.md",
     "content/philo/ch1/g1.md",
-    "/content/philo/disert.md",
-    "content/philo/def.md",
-    "content/philo/ch1/intro.md",
-    "content/philo/ch1/index.md",
-    "content/philo/ch1/g2.md",
-    "/content/philo/ch1/g1.md",
     "content/philo/ch1",
     "/content/philo/ch1",
     "/quartz.config.ts",

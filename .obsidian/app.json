@@ -20,7 +20,8 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo",
-    "editor:configure-toolbar",
-    "editor:insert-table"
+    "editor:insert-table",
+    "editor:table-col-delete",
+    "editor:configure-toolbar"
   ]
 }
