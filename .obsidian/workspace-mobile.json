@@ -29,7 +29,7 @@
               "state": {
                 "file": "content/philo/ch1/g2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "g2"
@@ -188,10 +188,10 @@
   },
   "active": "679d51e4923a3b0b",
   "lastOpenFiles": [
-    "content/philo/ch1/index.md",
     "content/philo/def.md",
-    "content/philo/ch1/intro.md",
     "content/philo/ch1/g2.md",
+    "content/philo/ch1/index.md",
+    "content/philo/ch1/intro.md",
     "content/histoire/totalitaire.md",
     "content/histoire/ww2.md",
     "content/ses/environement.md",
