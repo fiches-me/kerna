@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/philo/ch1/g2.md",
+                "file": "content/contribution/github.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "g2"
+              "title": "github"
             }
           }
         ],
@@ -188,13 +188,15 @@
   },
   "active": "679d51e4923a3b0b",
   "lastOpenFiles": [
-    "content/philo/def.md",
-    "content/philo/ch1/g2.md",
-    "content/philo/ch1/index.md",
+    "content/contribution/101.md",
+    "content/contribution/github.md",
+    "content/ses/environement.md",
     "content/philo/ch1/intro.md",
+    "content/philo/ch1/g2.md",
+    "content/philo/def.md",
+    "content/philo/ch1/index.md",
     "content/histoire/totalitaire.md",
     "content/histoire/ww2.md",
-    "content/ses/environement.md",
     "content/ses/index.md",
     "README.md",
     "content/physique/wip.md",
@@ -208,8 +210,6 @@
     "content/maths-exp/complexes.md",
     "content/index.md",
     "content/histoire/wip.md",
-    "content/contribution/101.md",
-    "content/contribution/github.md",
     "content/contribution/aide.md",
     "/content/philo/gorgias.md",
     "content/philo/disert.md",
