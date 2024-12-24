@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/philo/def.md",
+                "file": "content/philo/ch1/g2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "def"
+              "title": "g2"
             }
           }
         ],
@@ -186,9 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "679d51e4923a3b0b",
+  "active": "cc5213d46b67b3d3",
   "lastOpenFiles": [
     "content/philo/ch1/g2.md",
+    "philo/def.md",
+    "philo",
     "content/philo/def.md",
     "/quartz.config.ts",
     "content/contribution/github.md",
@@ -222,7 +224,6 @@
     "quartz/worker.ts",
     "quartz/util/trace.ts",
     "quartz/util/theme.ts",
-    "quartz/util/sourcemap.ts",
     "quartz/static/og-image.png",
     "quartz/static/icon.png"
   ]
