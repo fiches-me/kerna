@@ -188,6 +188,7 @@
   },
   "active": "679d51e4923a3b0b",
   "lastOpenFiles": [
+    "/quartz.config.ts",
     "content/contribution/github.md",
     "content/contribution/101.md",
     "content/ses/environement.md",
@@ -213,10 +214,8 @@
     "content/contribution/aide.md",
     "/content/philo/gorgias.md",
     "content/philo/disert.md",
-    "content/philo/ch1/g1.md",
     "content/philo/ch1",
     "/content/philo/ch1",
-    "/quartz.config.ts",
     "tsconfig.json",
     "quartz.layout.ts",
     "quartz.config.ts",
