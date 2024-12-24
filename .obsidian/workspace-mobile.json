@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/philo/ch1/g2.md",
+                "file": "content/philo/def.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "g2"
+              "title": "def"
             }
           }
         ],
@@ -188,13 +188,13 @@
   },
   "active": "679d51e4923a3b0b",
   "lastOpenFiles": [
+    "content/philo/ch1/g2.md",
+    "content/philo/def.md",
     "/quartz.config.ts",
     "content/contribution/github.md",
     "content/contribution/101.md",
     "content/ses/environement.md",
     "content/philo/ch1/intro.md",
-    "content/philo/ch1/g2.md",
-    "content/philo/def.md",
     "content/philo/ch1/index.md",
     "content/histoire/totalitaire.md",
     "content/histoire/ww2.md",

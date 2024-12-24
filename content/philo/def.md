@@ -2,6 +2,10 @@
 title: Définitions
 ---
 # Concepts
+### Épistémologie
+Signification de la connaissance en général
+### Ontologie
+Étude philosophique de l'être et des concepts associés tels que la réalité, l'existence et le devenir. 
 ### Scepticisme
 Impossibilité, par la raison, d'obtenir un savoir objectif et certain.
 # Outils
