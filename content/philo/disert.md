@@ -14,6 +14,17 @@ title: Méthode de la Dissertation
 - Énoncer l'enjeu et le plan
 
 ## Développement
+1. Général, opinion commune
+2. Continuité de la réflexion
+   ⚠️ **Thèse, Antithèse, Foutaise**
+
+- 1 citation par page
+   ⚠️ **Ne jamais commencer par une ref a un auteur**
+- Déployer sa propre réflexion et la déployer ensuite
+   ⚠️ **Ne jamais commencer par une ref a un auteur**
+- Conclusion, transition conceptuelle
+  -> pourquoi on s'arrete par là. Pertinent mais ne suffit pas
+
 
 **ℹ️ Sous parties possibles :** la logique est la même que pour les grandes parties
 

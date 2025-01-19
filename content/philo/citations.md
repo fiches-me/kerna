@@ -11,9 +11,5 @@ title: Citations
 
 "Il n'est désir plus naturel que le désir de savoir."
 
-"La resemblance ne fait pas autant que la différence ne fait autre." **Experiences, Essais**
-
-"Tout exemple cloche"
-
 ## Aristote
 "Tout les hommes ont par nature le désir de savoir" **Métaphysiques, A, 1**
