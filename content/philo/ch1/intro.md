@@ -9,7 +9,7 @@ title: 0️⃣ Libertés et Sacrifices
 - 📆 Publié en 1934
 
 # ☃️ Introduction
-*Es ce que l'homme ordinaire ne réfléchit pas du tout ?*
+*Est-ce que l'homme ordinaire ne réfléchit pas du tout ?*
 
 ```mermaid
 graph LR
@@ -37,7 +37,7 @@ Il n'y a interrogation philosophique que sur ce qui paraît évident à tout le 
 Le premier paragraphe du texte incite sur la singularité du mode de pensé philosophique.
 
 ## 🌿 Croyance Naturelle
-> Synonymes : Opinion Originaire, Attitude Naturelle, Foix Perceptive
+> Synonymes : Opinion Originaire, Attitude Naturelle, Foi Perceptive
 
 La **Croyance Naturelle** est une base que tout humain possède et acquis à la naissance. Elle inclut :
 - L'existence de soi et du monde
@@ -62,7 +62,7 @@ Contrairement au croyances naturelles, le conditionnement culturel est acquis du
 > L'époque et les créations techniques nous influence dans le sens où la communication (avec les réseaux sociaux & internet) qui ont drastiquement modifiés nos relations sociales.
 
 ### 🪗 La Langue
-La langue est un paradoxe : la ou elle paraît être un outil qui libéré la pensé, son existence permet aussi de la limiter. La langue est composé de trois objets :
+La langue est un paradoxe : là où elle paraît être un outil qui libère la pensée, son existence permet aussi de la limiter. La langue est composé de trois objets :
 - **La Langue** : Un ensemble de règles communes (la grammaire et le lexique)
   - Le lexique (les mots) possèdent une histoire chargé d'un sens qui nous ont été légués.
   - La grammaire, qui considère que le sujet est maître de son action alors que nous avons déjà vu précédemment que ce n'est pas le cas.

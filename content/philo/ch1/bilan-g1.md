@@ -1,5 +1,6 @@
 ---
 title: "*️⃣ Bilan - Première Partie"
+draft: true
 ---
 
 # Notions
