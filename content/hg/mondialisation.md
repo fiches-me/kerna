@@ -39,8 +39,20 @@ Mégapole & Mégalopoles. Connectées par les ports, transfert d'informations et
 - Bolivie: Sur le papier problèmes politiques et pays enclavé, mais présence de gaz
 ## À l'échelle nationale, la permanence de marges sociales et territoriales
 Les espaces côtiers/industrialisés sont très bien intégrés, à l'inverse des espaces ruraux.
+*Contre exemples: Beauss et Mid-West exportateurs*
+US & France: Délocalisation [vers le sud]
+
 ## 
-#
+# La mondialisation en question
+## Une mondialisation génératrice de tension
+Critique économique & politique : le commerce peut tendre.
+Les néo-libéraux considère que la mondialisation ne va pas assez loins et qu'elle est encore trop "freiné" par les états.
+Santé -> Doit on payer pour survire ? (ex: modèle US)
+Tensions -> +20% de budget militaire mondial entre 2010 et 2020
 ## 
-## 
-## 
+## Des tentatives de régulation inégalement efficace
+Chaque état fait face aux dommages collatéraux de la mondialisation
+### Social
+Délocalisation = Chômage, nécessité de reformer et dans certain cas impossibilité qui mène à précarité.
+### Excèes
+Pollution & Environment. Les payes européens se vente d'une avancé sur l'écologie mais leurs importations ne suivent pas leurs réglementations.
