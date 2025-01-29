@@ -25,3 +25,6 @@ Le Kosmotheoros est une entité imaginaire qui serait sans appartenances. Un êt
 
 ### Finitude
 La finitude est l'inverse du [[#Kosmotheoros]], c'est la notion de temps, de fin, d'après. C'est justement la fin de la vie qui stimule l'humain à créer, agir.
+
+## Métaphysiques
+Tout ce qui est accessible par la raison <u>seule</u>.
