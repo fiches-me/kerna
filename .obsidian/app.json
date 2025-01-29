@@ -23,5 +23,7 @@
     "editor:insert-table",
     "editor:table-col-delete",
     "editor:configure-toolbar"
-  ]
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }

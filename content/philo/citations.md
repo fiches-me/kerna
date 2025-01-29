@@ -13,3 +13,6 @@ title: Citations
 
 ## Aristote
 "Tout les hommes ont par nature le désir de savoir" **Métaphysiques, A, 1**
+
+
+Déchéance électorale 

@@ -1,4 +1,0 @@
----
-title: 🌆 Géopolitique
-draft: true
----
