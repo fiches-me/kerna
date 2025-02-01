@@ -58,3 +58,5 @@ Chaque État fait face aux dommages collatéraux de la mondialisation
 Délocalisations = Chômage, nécessité de se reconvertir, et dans certains cas, précarité.
 ### Environnement
 Pollution et dégradation de l'environnement. Les pays européens se vantent de leurs avancées écologiques, mais leurs importations ne respectent pas toujours leurs réglementations.
+
+Réunion en groupes de concertation pour préserver leurs intérêts (G7, G20)
