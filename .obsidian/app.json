@@ -22,7 +22,10 @@
     "editor:redo",
     "editor:insert-table",
     "editor:table-col-delete",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "obsidian-admonition:insert-admonition",
+    "editor:insert-footnote",
+    "editor:insert-callout"
   ],
   "newFileLocation": "current",
   "attachmentFolderPath": "./"

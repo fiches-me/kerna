@@ -9,7 +9,7 @@ title: 🌐 La Mondialisation
 ## Des pôles traditionnels aux pays émergents
 - **Japon & Corée** : Pays vieillissants
 - 75% du PIB et 80% des sièges sociaux sont concentrés dans la Triade et la Chine
-- Stratégie chinoise : Zones franches en échange d'une part de l'entreprise (Deng Xiaoping)
+- Stratégie chinoise : Zones franches en échange d'une part de l'entreprise (==Deng Xiaoping==)
 - BRICS : Plus d'actualité aujourd'hui
 - Russie : Économie de guerre
 
@@ -45,6 +45,8 @@ Les espaces côtiers et industrialisés sont bien intégrés, contrairement aux 
 *Contre-exemples : Les États-Unis et le Midwest, exportateurs agricoles*
 **États-Unis et France** : Délocalisations vers le Sud
 
+## Coopérations accru a toutes les échelles
+Europe, ONU, libre échange
 # La mondialisation en question
 ## Une mondialisation génératrice de tensions
 Critiques économiques et politiques : Le commerce peut créer des tensions.
@@ -52,6 +54,8 @@ Les néolibéraux considèrent que la mondialisation ne va pas assez loin et qu'
 **Santé** : Faut-il payer pour survivre ? (ex : modèle américain)
 **Tensions militaires** : +20% du budget militaire mondial entre 2010 et 2020
 
+## Montée d'intérêts divergents et contradictoires
+Cop vs chine
 ## Des tentatives de régulation inégalement efficaces
 Chaque État fait face aux dommages collatéraux de la mondialisation
 ### Social
