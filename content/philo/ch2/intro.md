@@ -1,5 +1,5 @@
 ---
-title: "Politique : Introduction"
+title: "0️⃣ Politique : Introduction"
 ---
 
 # ✏️ Définition du politique
