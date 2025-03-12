@@ -1,3 +1,3 @@
 ---
-title: Chapitre 1
+title: 1️⃣ Chapitre 1
 ---
