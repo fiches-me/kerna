@@ -624,9 +624,13 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   }
 
   function hideGlobalGraph() {
-    container?.classList.remove("active")
-    if (sidebar) {
-      sidebar.style.zIndex = "unset"
+    cleanupGlobalGraphs()
+    for (const container of containers) {
+      container.classList.remove("active")
+      const sidebar = container.closest(".sidebar") as HTMLElement
+      if (sidebar) {
+        sidebar.style.zIndex = ""
+      }
     }
   }
 

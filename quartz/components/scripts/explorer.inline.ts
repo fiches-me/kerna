@@ -29,8 +29,12 @@ function toggleExplorer(this: HTMLElement) {
     nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
   )
 
-  content.classList.toggle("collapsed")
-  content.style.maxHeight = content.style.maxHeight === "0px" ? content.scrollHeight + "px" : "0px"
+  if (!explorerCollapsed) {
+    // Stop <html> from being scrollable when mobile explorer is open
+    document.documentElement.classList.add("mobile-no-scroll")
+  } else {
+    document.documentElement.classList.remove("mobile-no-scroll")
+  }
 }
 
 function toggleFolder(evt: MouseEvent) {

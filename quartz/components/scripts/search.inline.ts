@@ -177,16 +177,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function hideSearch() {
-    container?.classList.remove("active")
-    if (searchBar) {
-      searchBar.value = "" // clear the input when we dismiss the search
-    }
-    if (sidebar) {
-      sidebar.style.zIndex = "unset"
-    }
-    if (results) {
-      removeAllChildren(results)
-    }
+    container.classList.remove("active")
+    searchBar.value = "" // clear the input when we dismiss the search
+    if (sidebar) sidebar.style.zIndex = ""
+    removeAllChildren(results)
     if (preview) {
       removeAllChildren(preview)
     }

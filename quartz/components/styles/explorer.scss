@@ -1,6 +1,97 @@
 @use "../../styles/variables.scss" as *;
 
-button#explorer {
+@media all and ($mobile) {
+  .page > #quartz-body {
+    // Shift page position when toggling Explorer on mobile.
+    & > :not(.sidebar.left:has(.explorer)) {
+      transition: transform 300ms ease-in-out;
+    }
+    &.lock-scroll > :not(.sidebar.left:has(.explorer)) {
+      transform: translateX(100dvw);
+      transition: transform 300ms ease-in-out;
+    }
+
+    // Sticky top bar (stays in place when scrolling down on mobile).
+    .sidebar.left:has(.explorer) {
+      box-sizing: border-box;
+      position: sticky;
+      background-color: var(--light);
+      padding: 1rem 0 1rem 0;
+      margin: 0;
+    }
+
+    .hide-until-loaded ~ .explorer-content {
+      display: none;
+    }
+  }
+}
+
+.explorer {
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+
+  min-height: 1.2rem;
+  flex: 0 1 auto;
+  &.collapsed {
+    flex: 0 1 1.2rem;
+    & .fold {
+      transform: rotateZ(-90deg);
+    }
+  }
+
+  & .fold {
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+    opacity: 0.8;
+  }
+
+  @media all and ($mobile) {
+    order: -1;
+    height: initial;
+    overflow: hidden;
+    flex-shrink: 0;
+    align-self: flex-start;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  button.mobile-explorer {
+    display: none;
+  }
+
+  button.desktop-explorer {
+    display: flex;
+  }
+
+  @media all and ($mobile) {
+    button.mobile-explorer {
+      display: flex;
+    }
+
+    button.desktop-explorer {
+      display: none;
+    }
+  }
+
+  &.desktop-only {
+    @media all and not ($mobile) {
+      display: flex;
+    }
+  }
+
+  svg {
+    pointer-events: all;
+    transition: transform 0.35s ease;
+
+    & > polyline {
+      pointer-events: none;
+    }
+  }
+}
+
+button.mobile-explorer,
+button.desktop-explorer {
   background-color: transparent;
   border: none;
   text-align: left;
@@ -20,23 +111,8 @@ button#explorer {
 .explorer-content {
   list-style: none;
   overflow: hidden;
-  max-height: none;
-  transition:
-    max-height 0.35s ease,
-    visibility 0s linear 0s;
+  overflow-y: auto;
   margin-top: 0.5rem;
-  visibility: visible;
-
-  &.collapsed {
-    transition:
-      max-height 0.35s ease,
-      visibility 0s linear 0.35s;
-    visibility: hidden;
-  }
-
-  &.collapsed > .overflow::after {
-    opacity: 0;
-  }
 
   & ul {
     list-style: none;
@@ -55,7 +131,12 @@ button#explorer {
       }
     }
   }
-}
+
+  .folder-outer {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.3s ease-in-out;
+  }
 
   .folder-outer.open {
     grid-template-rows: 1fr;

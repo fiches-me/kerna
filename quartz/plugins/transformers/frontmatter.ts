@@ -98,6 +98,26 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             const cssclasses = coerceToArray(coalesceAliases(data, ["cssclasses", "cssclass"]))
             if (cssclasses) data.cssclasses = cssclasses
 
+            const socialImage = coalesceAliases(data, ["socialImage", "image", "cover"])
+
+            const created = coalesceAliases(data, ["created", "date"])
+            if (created) data.created = created
+            const modified = coalesceAliases(data, [
+              "modified",
+              "lastmod",
+              "updated",
+              "last-modified",
+            ])
+            if (modified) data.modified = modified
+            const published = coalesceAliases(data, ["published", "publishDate", "date"])
+            if (published) data.published = published
+
+            if (socialImage) data.socialImage = socialImage
+
+            // Remove duplicate slugs
+            const uniqueSlugs = [...new Set(allSlugs)]
+            allSlugs.splice(0, allSlugs.length, ...uniqueSlugs)
+
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
           }
@@ -119,11 +139,14 @@ declare module "vfile" {
         created: string
         published: string
         description: string
-        publish: boolean
-        draft: boolean
+        socialDescription: string
+        publish: boolean | string
+        draft: boolean | string
         lang: string
         enableToc: string
         cssclasses: string[]
+        socialImage: string
+        comments: boolean | string
       }>
   }
 }
