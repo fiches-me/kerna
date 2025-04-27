@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/philo/ch2/g1.md",
+                "file": "content/philo/ch2/g2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "g1"
+              "title": "g2"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "99e042a3657e9b31",
   "lastOpenFiles": [
+    "content/philo/ch2/g1.md",
     "content/philo/ch2/g2.md",
     "content/philo/ch2/g3.md",
     "content/ses/index.md",
@@ -213,7 +214,6 @@
     "content/philo/ch1/bilan-g1.md",
     "content/philo/ch2/index.md",
     "content/philo/ch2/intro.md",
-    "content/philo/ch2/g1.md",
     "content/philo/disert.md",
     "content/philo/gorgias.md",
     "content/philo/index.md",
