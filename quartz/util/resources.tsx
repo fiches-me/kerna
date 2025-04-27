@@ -1,5 +1,6 @@
 import { randomUUID } from "crypto"
 import { JSX } from "preact/jsx-runtime"
+import { QuartzPluginData } from "../plugins/vfile"
 
 export type JSResource = {
   loadTime: "beforeDOMReady" | "afterDOMReady"
@@ -39,4 +40,12 @@ export function JSResourceToScriptElement(resource: JSResource, preserve?: boole
 export interface StaticResources {
   css: string[]
   js: JSResource[]
+  additionalHead: (JSX.Element | ((pageData: QuartzPluginData) => JSX.Element))[]
+}
+
+export type StringResource = string | string[] | undefined
+export function concatenateResources(...resources: StringResource[]): StringResource {
+  return resources
+    .filter((resource): resource is string | string[] => resource !== undefined)
+    .flat()
 }

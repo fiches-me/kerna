@@ -1,25 +1,35 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import explorerStyle from "./styles/explorer.scss"
+import style from "./styles/explorer.scss"
 
 // @ts-ignore
 import script from "./scripts/explorer.inline"
-import { ExplorerNode, FileNode, Options } from "./ExplorerNode"
-import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
 import { VNode } from "preact"
 
-// Options interface defined in `ExplorerNode` to avoid circular dependency
-const defaultOptions = {
-  folderClickBehavior: "collapse",
+type OrderEntries = "sort" | "filter" | "map"
+
+export interface Options {
+  title?: string
+  folderDefaultState: "collapsed" | "open"
+  folderClickBehavior: "collapse" | "link"
+  useSavedState: boolean
+  sortFn: (a: FileTrieNode, b: FileTrieNode) => number
+  filterFn: (node: FileTrieNode) => boolean
+  mapFn: (node: FileTrieNode) => void
+  order: OrderEntries[]
+}
+
+const defaultOptions: Options = {
   folderDefaultState: "collapsed",
+  folderClickBehavior: "link",
   useSavedState: true,
   mapFn: (node) => {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabetically
-    if ((!a.file && !b.file) || (a.file && b.file)) {
+    // Sort order: folders first, then files. Sort folders and files alphabeticall
+    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
       // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
       return a.displayName.localeCompare(b.displayName, undefined, {
@@ -28,19 +38,24 @@ const defaultOptions = {
       })
     }
 
-    if (a.file && !b.file) {
+    if (!a.isFolder && b.isFolder) {
       return 1
     } else {
       return -1
     }
   },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: (node) => node.slugSegment !== "tags",
   order: ["filter", "map", "sort"],
-} satisfies Options
+}
+
+export type FolderState = {
+  path: string
+  collapsed: boolean
+}
 
 export default ((userOpts?: Partial<Options>) => {
-  // Parse config
   const opts: Options = { ...defaultOptions, ...userOpts }
+  const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
 
   // memoized
   let fileTree: FileNode
@@ -126,7 +141,7 @@ export default ((userOpts?: Partial<Options>) => {
     return component
   }
 
-  Explorer.css = explorerStyle
-  Explorer.afterDOMLoaded = script
+  Explorer.css = style
+  Explorer.afterDOMLoaded = concatenateResources(script, overflowListAfterDOMLoaded)
   return Explorer
 }) satisfies QuartzComponentConstructor
