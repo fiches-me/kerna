@@ -11,6 +11,9 @@ const vitePressConfigs = {
       dark: 'catppuccin-mocha',
     },
   },
+  titleTemplate: ':title - FICHES',
+  cleanUrls: true,
+  lang: 'fr-FR',
   head: [['link', { rel: 'icon', type: 'image/png', href: '/logo.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
