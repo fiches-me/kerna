@@ -3,7 +3,7 @@ import { withSidebar } from 'vitepress-sidebar';
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs = {
-  title: "FICHES.ME",
+  title: "📑 FICHES.ME",
   description: "Mes super fiches ig",
   markdown: {
     theme: {
