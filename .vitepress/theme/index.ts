@@ -1,8 +1,5 @@
-import Aplos from "aplos/Layout.vue";
-import type { Theme } from "vitepress";
-import "aplos";
+import DefaultTheme from "vitepress/theme";
+import "@catppuccin/vitepress/theme/macchiato/yellow.css";
+import "./style.css";
 
-export default {
-  Layout: Aplos,
-} satisfies Theme;
-
+export default DefaultTheme;
