@@ -1,14 +1,19 @@
 {
-  "devDependencies": {
-    "sass-embedded": "^1.87.0",
-    "vitepress": "^1.6.3"
-  },
+  "name": "fiches.me",
+  "version": "2.0.0",
+  "description": "Documentation for fiches.me",
+  "author": "Funasitien",
+  "license": "GPL-3.0-only",
+  "homepage": "https://fiches.me",
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
   "dependencies": {
-    "aplos": "^2.5.0"
+    "aplos": "^2.5.0",
+    "sass": "^1.87.0",
+    "sass-embedded": "^1.87.0",
+    "vitepress": "^1.6.3"
   }
 }
