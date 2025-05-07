@@ -1,5 +1,6 @@
 ---
 title: Comment Contribuer
+order: 1
 ---
 
 *Créer ou contribuer à un site web peut faire peur. Mais pour rendre nos fiches les plus accessibles possible, nous avant déjà fait tout le code pour qu'il ne vous reste que les fiches*
