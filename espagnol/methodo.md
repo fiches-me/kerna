@@ -12,3 +12,4 @@ title: 📝 Méthode
 2. Description
 3. Interpretation
 4. Relation avec l'axe
+5. [BONUS] Donner votre avis
