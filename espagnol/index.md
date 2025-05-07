@@ -3,7 +3,6 @@
 ### Identidades e intercambios
 
 ### Diversidad y inclusión
-> [!IMPORTANT] 
 
 ### Ficciones y realidades
 
