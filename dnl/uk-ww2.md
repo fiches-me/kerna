@@ -23,3 +23,6 @@ World War II caused over 50,000 civilian deaths, around 1,000 military deaths, a
 # 🔥 The Blitz
 
 The Blitz was a period during which London and other major UK cities were repeatedly bombed by the German Luftwaffe. Several iconic landmarks were damaged, including the **Houses of Chambers** and **Buckingham Palace**.
+
+# 👔 Wiston Churchill
+Born the **30 November 1874** and died the **24 January 1965**. Member of the conservative party ("*right leaning*") and successfully elected at the House of Commons from 1924 to 1964. He replaced Chamberlain after  his resignation until he looses the elections in 1945.
