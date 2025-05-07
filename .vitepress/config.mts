@@ -20,6 +20,7 @@ const vitePressConfigs = {
     logo: '/logo.png',
     nav: [
       { text: '💫 Philosophie', link: '/philo' },
+      { text: '💃 Espagnol', link: '/espagnol' },
       { text: '🍵 DNL', link: '/dnl' },
       { text: '💖 Nous Aider', link: '/contribution' },
     ],
@@ -43,6 +44,14 @@ export default defineConfig(
       documentRootPath: '/',
       scanStartPath: 'philo',
       resolvePath: '/philo/',
+      useTitleFromFrontmatter: true,
+      useFolderTitleFromIndexFile: true,
+      sortMenusByFrontmatterOrder: true,
+    },
+    {
+      documentRootPath: '/',
+      scanStartPath: 'espagnol',
+      resolvePath: '/espagnol/',
       useTitleFromFrontmatter: true,
       useFolderTitleFromIndexFile: true,
       sortMenusByFrontmatterOrder: true,
