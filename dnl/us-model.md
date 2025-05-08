@@ -11,7 +11,23 @@ order: 3
 > Le sujet officiel de DNL ne concerne que la période de 1960 à 1970 !
 
 # Martin Luther King
+Born the 15 January 1929 and died the 4 april 1968.
+
+Notorious for "I Have A Dream" speech during the March of Washington [250000 peoples].
+
 # Vietnam War
+Soldiers used as "Gun Flesh." MLK and Mohamed Ali opposition. 
+
+Brings poverty, unemployment and poss-trauma stress. New generations claims radical changes.
 # Youth Contestation
 # Water Gate
+Lost trust in government. New laws created:
+- Increase gov. transparency
+- Limit campaign financial
+- Restricted executive power
+
 # Cultural and Political Influence
+## Black Muslims
+-> Link to the nation of Islam
+## Black Phanters Party
+-> **Armed Patrol**, self-justice
