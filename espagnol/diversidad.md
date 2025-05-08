@@ -9,6 +9,7 @@ order: 4
 # Vocabulario
 #### Cuadro
 Un graphique
+#### Intención del voto [latino]
 
 # Gramática
 - Se estima/se calcula que 
@@ -16,3 +17,4 @@ Un graphique
   - el XX por ciento [exact]
   - un XX
   - `,` : coma
+- nombres
