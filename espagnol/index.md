@@ -10,3 +10,9 @@
 
 ### Arte y poder
 
+
+# Utile
+una película
+una caricatura
+una pintura
+un dibujo

@@ -17,3 +17,7 @@ order: 5
   - (A el) le apasion**an**/emocion**an**
 
 - De tanto leer libros de caballería, se obsesiona
+
+# Referencias
+- Don Quijote: el Molino
+- Don Quijote: el Manga
