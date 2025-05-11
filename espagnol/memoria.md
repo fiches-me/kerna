@@ -7,7 +7,9 @@ order: 6
 #### Territorio y memoria
 
 # Vocabulario
-#### 
+- tension
+- conflictos
+- hostil
 
 # Gramática
 

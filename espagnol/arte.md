@@ -14,6 +14,9 @@ order: 8
 - querellas
 - terror
 - *la dictadura* sucumbida
+- ordenes
+- ser cruel/egoísta/autoritario
+- ser obediente/sumiso
 
 # Gramática
 - pajazos -> libertad

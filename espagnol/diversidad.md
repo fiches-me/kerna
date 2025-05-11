@@ -18,3 +18,7 @@ Un graphique
   - un XX
   - `,` : coma
 - nombres
+
+# Referencias
+- Statista
+- El Colombiano

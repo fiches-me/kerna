@@ -20,4 +20,4 @@ order: 5
 
 # Referencias
 - Don Quijote: el Molino
-- Don Quijote: el Manga
+- Don Quijote de la Mancha: el Manga
