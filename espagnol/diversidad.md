@@ -21,4 +21,5 @@ Un graphique
 
 # Referencias
 - Statista
-- El Colombiano
+- El Spanglish
+- El Colombiano: voto lation

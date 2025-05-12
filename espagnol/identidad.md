@@ -3,9 +3,9 @@ title: Identidades e intercambios
 order: 3
 ---
 
-# Immigración en los EE UU.
+# Immigration en los EE UU.
 #### Identidades e intercambios
-La immigración es un viaje horrible/peligroso/complicado, por/a causa del cliamo (hace mucho calor), por [La Migra](#la-migra) es despida, por la muerte que espera a muchos immigrantes en el camino.
+La inmigración es un viaje horrible/peligroso/complicado, por/a causa del cliamo (hace mucho calor), por [La Migra](#la-migra) es despida, por la muerte que espera a muchos immigrantes en el camino.
 
 # Vocabulario
 - La Migra/policía fronteriza 
@@ -30,4 +30,4 @@ La immigración es un viaje horrible/peligroso/complicado, por/a causa del cliam
 # Referencias
 - Canción: Sueno Americano, Mario Domm
 - *Stranger* Jorge RAMOS
-- Que es el Spanglish?
+- Un dia sin migrantes

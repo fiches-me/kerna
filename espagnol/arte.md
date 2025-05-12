@@ -22,5 +22,5 @@ order: 8
 - pajazos -> libertad
 
 # Referencias
-- dictadura de Cuba
-- dictadura de *Franco*
+- los pájaros prohibidos 
+- la revista analysis
