@@ -12,11 +12,12 @@
 
 
 # Utile
-una película
-una caricatura
-una pintura
-un dibujo
-un tebeo
+- una película
+- una caricatura
+- una pintura
+- un dibujo
+- un tebeo
 
 podemos ver a
+
 en el primero/secundo/tercero/trasfundo plano
