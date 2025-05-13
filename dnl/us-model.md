@@ -13,10 +13,12 @@ order: 3
 # Martin Luther King
 Born the 15 January 1929 and died the 4 april 1968.
 
-Notorious for "I Have A Dream" speech during the March of Washington [250000 peoples].
+Notorious for "I Have A Dream" speech during the March of Washington [250.000 peoples].
 
 # Cuba Crisis
 14 - 27 october 1962
+
+Military boats approach the Cuba island, which turned red, and with missiles and on and on.
 
 # Vietnam War
 Soldiers used as "Gun Flesh." MLK and Mohamed Ali opposition. 
