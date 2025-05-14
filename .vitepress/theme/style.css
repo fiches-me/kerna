@@ -36,9 +36,13 @@ table {
   margin-bottom: 1rem;
 }
 
-.top,
-.middle,
-.bottom,
+.container .top,
+.container .middle,
+.container .bottom,
 .menu-icon {
   --color: var(--vp-c-text-1);
+}
+
+.hamburger .container {
+  border-radius: 0px !important
 }
