@@ -35,3 +35,10 @@ table {
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
+
+.top,
+.middle,
+.bottom,
+.menu-icon {
+  --color: var(--vp-c-text-1);
+}
