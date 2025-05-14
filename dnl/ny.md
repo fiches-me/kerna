@@ -35,11 +35,11 @@ According to Saskia Sassen in 2001, the criteria for a global city are:
 # Is New York a global city?
 
 ## Hub
-Economy: 1st in the world in concentration of headquarters
-Big stock exchanges (Wall Strt)
+- Economy: 1st in the world in concentration of headquarters
+- Big stock exchanges (Wall Strt)
 
 ## Inovation
-Research and development poles. Prestigous schools
+- Research and development poles. Prestigous schools
 
 ## Cultural Interactions
 
