@@ -59,7 +59,7 @@ Global cities have to fight against **spatial & social disparities** and work on
 📊 Median income: $43,000  
 👔 Only 19% of the population has a college degree  
 💸 26.4% of the population is under the poverty line  
-🏙️ **→ 83% of New York** *(Clarify what this percentage refers to — population?)*
+🏙️ **→ 83% of New York** -> 7.3M
 
 # Manhattan
 
