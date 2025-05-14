@@ -5,7 +5,36 @@ order: 2
 
 # 🗽 New York, a Global City
 
-**In a nutshell**: New York is the largest city in the US, with around 8.8 million inhabitants — *twice as many as the second largest city, Los Angeles*. It consists of five boroughs: Brooklyn, Queens, [Manhattan](#manhattan), [The Bronx](#the-bronx), and Staten Island.
+**In a nutshell**: New York is the largest city in the US, with around 8.8 million inhabitants — *twice as many as the second-largest city, Los Angeles*. It consists of five boroughs: Brooklyn, Queens, [Manhattan](#manhattan), [The Bronx](#the-bronx), and Staten Island.
+
+# Criteria
+
+According to Saskia Sassen in 2001, the criteria for a global city are:
+
+## Hub
+- Financial hub, stock exchanges
+- Banks
+- Big companies
+- Transport: airports/harbors/highways/train stations
+
+## Innovation
+- Universities/schools
+- Research in science
+
+## Cultural Influence
+- News agencies/Newspapers
+
+## Tourism
+
+## Multiculturalism
+- International city
+
+## 6th
+- 6th's child *(Clarify this section — it's unclear what is meant)*
+
+# Goals
+
+Global cities have to fight against **spatial & social disparities** and work on better **ecological** impact.
 
 # ⚖️ Spatial & Social Disparities
 
@@ -14,22 +43,15 @@ order: 2
 
 # The Bronx
 
-📊 Median: 43.000$
-
-👔 Only 19% of the population have a college degree
-
-💸 26.4% of the population is under the poverty line
-
-🏙️ **-> 83% of New York**
+📊 Median income: $43,000  
+👔 Only 19% of the population has a college degree  
+💸 26.4% of the population is under the poverty line  
+🏙️ **→ 83% of New York** *(Clarify what this percentage refers to — population?)*
 
 # Manhattan
 
-⚪ White Majority (57.5%)
-
-📊 Median: 98.000$
-
-👔 1% won over 700.000$
-
-💸 18.6% of the population is under the poverty line
-
-🏙️ **-> 1.6M of New York's inhabitants**
+⚪ White majority (57.5%)  
+📊 Median income: $98,000  
+👔 1% earn over $700,000  
+💸 18.6% of the population is under the poverty line  
+🏙️ **→ 1.6M of New York's inhabitants**
