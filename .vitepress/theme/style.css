@@ -39,7 +39,8 @@ table {
 .container .top,
 .container .middle,
 .container .bottom,
-.menu-icon {
+.menu-icon,
+.icon {
   --color: var(--vp-c-text-1);
 }
 
