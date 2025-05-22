@@ -47,6 +47,7 @@ export default defineConfig(
       useTitleFromFrontmatter: true,
       useFolderTitleFromIndexFile: true,
       sortMenusByFrontmatterOrder: true,
+      excludeFilesByFrontmatterFieldName: 'draft',
     },
     {
       documentRootPath: '/',
