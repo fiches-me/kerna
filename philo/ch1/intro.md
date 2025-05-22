@@ -1,5 +1,6 @@
 ---
-title: 0️⃣ Libertés et Sacrifices
+title: Libertés et Sacrifices
+order: 1
 ---
 
 > [!Todo] Fiche écrite par Guilhem :D
