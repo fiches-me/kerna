@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { withSidebar } from 'vitepress-sidebar';
+import { withMermaid } from "vitepress-plugin-mermaid";
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs = {
@@ -37,41 +38,44 @@ const vitePressConfigs = {
     hostname: 'https://fiches.me'
   },
 }
-
 export default defineConfig(
-  withSidebar(vitePressConfigs, [
-    {
-      documentRootPath: '/',
-      scanStartPath: 'philo',
-      resolvePath: '/philo/',
-      useTitleFromFrontmatter: true,
-      useFolderTitleFromIndexFile: true,
-      sortMenusByFrontmatterOrder: true,
-      excludeFilesByFrontmatterFieldName: 'draft',
-    },
-    {
-      documentRootPath: '/',
-      scanStartPath: 'espagnol',
-      resolvePath: '/espagnol/',
-      useTitleFromFrontmatter: true,
-      useFolderTitleFromIndexFile: true,
-      sortMenusByFrontmatterOrder: true,
-    },
-    {
-      documentRootPath: '/',
-      scanStartPath: 'dnl',
-      resolvePath: '/dnl/',
-      useTitleFromFrontmatter: true,
-      useFolderTitleFromIndexFile: true,
-      sortMenusByFrontmatterOrder: true,
-    },
-    {
-      documentRootPath: '/',
-      scanStartPath: 'contribution',
-      resolvePath: '/contribution/',
-      useTitleFromFrontmatter: true,
-      useFolderTitleFromIndexFile: true,
-      sortMenusByFrontmatterOrder: true,
-    }
-  ])
+  withMermaid(
+    withSidebar(
+      vitePressConfigs, [
+      {
+        documentRootPath: '/',
+        scanStartPath: 'philo',
+        resolvePath: '/philo/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+        excludeFilesByFrontmatterFieldName: 'draft',
+      },
+      {
+        documentRootPath: '/',
+        scanStartPath: 'espagnol',
+        resolvePath: '/espagnol/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+      },
+      {
+        documentRootPath: '/',
+        scanStartPath: 'dnl',
+        resolvePath: '/dnl/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+      },
+      {
+        documentRootPath: '/',
+        scanStartPath: 'contribution',
+        resolvePath: '/contribution/',
+        useTitleFromFrontmatter: true,
+        useFolderTitleFromIndexFile: true,
+        sortMenusByFrontmatterOrder: true,
+      }
+    ]),
+    
+  )
 );
