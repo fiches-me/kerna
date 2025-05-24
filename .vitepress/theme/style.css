@@ -10,6 +10,10 @@
   justify-content: center;
 }
 
+.VPSidebar {
+  scrollbar-color: var(--vp-c-text-1) var(--vp-c-bg); 
+}
+
 table {
   max-width: 100% !important;
   width: 100% !important;
