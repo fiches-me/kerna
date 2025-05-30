@@ -1,5 +1,5 @@
 ---
-title: ❤️ Le Bonheur
+title: ❤️ Bonheur
 order: 3
 ---
 # Définition
