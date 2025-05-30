@@ -1,6 +1,6 @@
 ---
 title: Libertés et Sacrifices
-order: 1
+order: 101
 ---
 
 > [!Todo] Fiche écrite par Guilhem :D

@@ -1,6 +1,6 @@
 ---
 title: L'Art et la Vérité
-order: 1
+order: 401
 ---
 
 # L'Art et la Vérité sont-ils compatibles ?
