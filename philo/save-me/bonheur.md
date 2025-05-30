@@ -27,5 +27,5 @@ Le bonheur doit être atteindre dans les plaisirs de l'âme et non sensibles ou 
 "*Le juste est heureux, et l'injuste malheureux*"
 # Epictète
 
-> ![WARNING]
-> Être heureux est temporaire :/
+> [!WARNING]
+> Être heureux est temporaire
