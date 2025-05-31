@@ -1,5 +1,6 @@
 ---
 title: Résumé Gorgias
+draft: true
 ---
 
 > [!Todo] Fiche écrite par Guilhem :D
