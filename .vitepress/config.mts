@@ -11,6 +11,13 @@ const vitePressConfigs = {
       light: 'catppuccin-mocha',
       dark: 'catppuccin-mocha',
     },
+    container: {
+      tipLabel: '💡 CONSEIL',
+      warningLabel: '⚠️ ATTENTKON',
+      dangerLabel: '🔥 DANGER',
+      infoLabel: '🔎 INFO',
+      detailsLabel: '*️⃣ DÉTAILS',
+    },
   },
   titleTemplate: ':title - FICHES',
   cleanUrls: true,
