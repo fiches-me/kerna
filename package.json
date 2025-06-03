@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@catppuccin/vitepress": "^0.1.2",
-    "vitepress": "^1.6.3",
+    "vitepress": "^2.0.0-alpha.5",
     "vitepress-sidebar": "^1.31.1"
   },
   "devDependencies": {
