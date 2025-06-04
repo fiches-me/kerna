@@ -6,12 +6,20 @@ order: 5
 Principe juridique et moral visant à attribuer à chacun ce qui lui revient.
 
 # Platon
-Dans la République, avec son premier interlocuteur, il définit la justice comme dire la vérité et rendre à chacun ce qui lui est dû (mais donner une arme à un fou cause tort)
+- Dans [Politique & Vérité](/philo/ch2/g1.md) :
+  - Justice idéale = gouvernement des philosophes-rois
+  - Critique radicale de la démocratie : "*Pouvoir des ignorants*"
+- Allégorie du navire : nécessité du pilote compétent
 
-Même en admettant qu'une justice perverti existe, il existe une justice idéale indépendantes des humains.
+# Rousseau
+- Dans [Contrat social](/philo/ch2/g3.md) :
+  - "*Renoncer à sa liberté c'est renoncer à sa qualité d'homme*"
+  - Critique du Léviathan de Hobbes
+- Concept de souveraineté populaire
 
-"*La justice consiste a rendre à chacun ce qui lui appartient*"
-### Thrasymaque
-La justice est l'avantage du plus fort mais es ce que la justice profite qu'au plus fort ?
+# Montaigne
+- Dans [De la raison à la coutume](/philo/ch2/g2.md) :
+  - "*Fondement mystique de l'autorité*"
+  - Impossibilité de fonder rationnellement la justice
 
 # Utilitarisme
