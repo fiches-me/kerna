@@ -2,6 +2,7 @@
 title: ❤️ Bonheur
 order: 3
 ---
+
 # Définition
 État durable de complète satisfaction qui s'oppose au malheur ou à la souffrance
 
@@ -9,6 +10,7 @@ order: 3
 Pour lui, le bonheur est un concept illusoire indéterminé comme un mirage, car l'idéal est souvent hors de porté.
 "*Le concept de bo heur est un idéal non de la raion mais de l'imagination*"
 **Fondement de la métaphysique des mœurs.**
+
 # Épicure
 Il identifie différent types de désirs :
 1. Le désir **naturel necessaire** : boire, manger
