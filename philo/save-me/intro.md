@@ -2,6 +2,7 @@
 order: 2
 title: 🧐 T'as Fumé ?
 ---
+
 # Non, je n'ai pas fumé.
 ###### En plus je suis asmatique
 
