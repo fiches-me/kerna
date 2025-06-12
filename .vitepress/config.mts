@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { withSidebar } from 'vitepress-sidebar';
 import { withMermaid } from "vitepress-plugin-mermaid";
+import { maths } from 'markdown-it-mathjax3';
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs = {
@@ -11,6 +12,7 @@ const vitePressConfigs = {
       light: 'catppuccin-mocha',
       dark: 'catppuccin-mocha',
     },
+    math: true,
     container: {
       tipLabel: '💡 CONSEIL',
       warningLabel: '⚠️ ATTENTKON',
