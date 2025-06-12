@@ -2,6 +2,7 @@
 title: 😶‍🌫️ Inconscient
 order: 8
 ---
+
 # Définition
 Force dissimulée à la conscience parce qu'enfouie dans les profondeurs de l'esprit humain.
 
@@ -9,6 +10,7 @@ Force dissimulée à la conscience parce qu'enfouie dans les profondeurs de l'es
 Selon lui, l'inconscient joue un rôle crucial dans nos décisions et notre vie quotidienne. La pensées est alors un iceberg où l'inconscient est l'instance immergé, autonome avec ses propres règles.
 La manifestation de l'inconscient comme lapsus ou rêve révèle des désirs inconscients.
 "*L'inconscient est le veritable psychique, sa réalité propre est d'orde psychique*"
+
 # Sartre
 Il critique Freud.
 
