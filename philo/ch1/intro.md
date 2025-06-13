@@ -3,7 +3,8 @@ title: Libertés et Sacrifices
 order: 101
 ---
 
-> [!Todo] Fiche écrite par Guilhem :D
+::: note Fiche écrite par Guilhem :D
+:::
 
 # 📖 Texte
 - 👤 Auteur: **Jan Patočka**
@@ -41,8 +42,8 @@ Le premier paragraphe du texte incite sur la singularité du mode de pensé phil
 > Synonymes : Opinion Originaire, Attitude Naturelle, Foi Perceptive
 
 La **Croyance Naturelle** est une base que tout humain possède et acquis à la naissance. Elle inclut :
-- L'existence de soi et du monde
-- *Toute autre question (in)fondé ?*
+- L'existence de soi
+- L'existence du monde
 
 Tout type d'activité et de réflexion suppose cette croyance. Par exemple, le scientifique met de côté sa religion lors d'une expérience, mais il ne se demande pas si les objets qu'il étudie, si lui, si le monde existe.
 
@@ -60,7 +61,7 @@ Contrairement au croyances naturelles, le conditionnement culturel est acquis du
 - La religion, même até
 - L'évolution technologie et temporelle
 
-> L'époque et les créations techniques nous influence dans le sens où la communication (avec les réseaux sociaux & internet) qui ont drastiquement modifiés nos relations sociales.
+> L'époque et les créations techniques nous influence dans le sens où la communication (avec les réseaux sociaux & internet) ont drastiquement modifiés nos relations sociales.
 
 ### 🪗 La Langue
 La langue est un paradoxe : là où elle paraît être un outil qui libère la pensée, son existence permet aussi de la limiter. La langue est composé de trois objets :
@@ -79,7 +80,7 @@ Mais l'école a aussi pour rôle de nous faire apprendre, intérioriser, des con
 Le Kosmotheoros est une entité imaginaire qui serait sans appartenances. Un être immortel, de surplomb, de survol. Pour lui, il n'y a pas d'après. Il est difficile pour nous de le limiter car il est par définition infinite, sans limites.
 
 ### ❄️ La Finitude
-La finitude est l'inverse du [[#🌥 Le Kosmotheoros|Kosmotheoros]], c'est la notion de temps, de fin, d'après. C'est justement la fin de la vie qui stimule l'humain à créer, agir.
+La finitude est l'inverse du [Kosmotheoros](#🌥 Le Kosmotheoros), c'est la notion de temps, de fin, d'après. C'est justement la fin de la vie qui stimule l'humain à créer, agir.
 
 
 **Le Conditionnement est tellement enraciné en nous qu'on pourrait se demander comment peut on en sortir**
@@ -89,7 +90,7 @@ La finitude est l'inverse du [[#🌥 Le Kosmotheoros|Kosmotheoros]], c'est la no
 Après avoir montré la finitude humaine et le conditionnement que tout les Hommes subissent, il s'agit de savoir ce qui va donner impulsion à la réflexion
 ## ☄️ Les experiences négatives et l'éveil de la raison
 
-Ce deuxième paragraphe explicite les différentes expériences négatives existantes :
+Le deuxième paragraphe du texte explicite les différentes expériences négatives existantes :
 - Déception
 - Trahison
 - Mort Subite
@@ -151,7 +152,7 @@ Exemples:
 
 ## 😵‍💫 Paradoxe
 
-Le philosophe veux lutter contre les affects (les émotions), mais la source de la philosophie provient des affects.
+**Le philosophe veux lutter contre les affects (les émotions), mais la source de la philosophie provient des affects.**
 
 # *️⃣ Conclusion
 

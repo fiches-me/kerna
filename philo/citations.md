@@ -18,3 +18,4 @@ title: Citations
 Déchéance électorale 
 
 ## Nietzsche
+"Chaque mot est un préjugé"
