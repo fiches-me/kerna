@@ -5,19 +5,19 @@
   "author": "Funasitien",
   "license": "GPL-3.0-only",
   "homepage": "https://fiches.me",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview"
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview ."
   },
   "dependencies": {
-    "@catppuccin/vitepress": "^0.1.2",
-    "vitepress-sidebar": "^1.31.1"
-  },
-  "devDependencies": {
+    "@mdit/plugin-footnote": "^0.22.2",
     "markdown-it-mathjax3": "^4.3.2",
-    "mermaid": "^11.6.0",
-    "vitepress": "2.0.0-alpha.12",
-    "vitepress-plugin-mermaid": "^2.0.17"
+    "markdown-it-obsidian-callouts": "^0.3.2",
+    "vitepress-plugin-mermaid": "^2.0.17",
+    "vitepress-sidebar": "^1.33.0"
   }
 }
