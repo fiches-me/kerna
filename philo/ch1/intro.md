@@ -3,9 +3,6 @@ title: Libertés et Sacrifices
 order: 101
 ---
 
-::: note Fiche écrite par Guilhem :D
-:::
-
 # 📖 Texte
 - 👤 Auteur: **Jan Patočka**
 - 📆 Publié en 1934
