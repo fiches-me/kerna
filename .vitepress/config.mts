@@ -30,7 +30,7 @@ const vitePressConfigs = {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
     editLink: {
-      pattern: 'https://github.com/fiches-cc/cpes/edit/main/:path'
+      pattern: 'https://github.com/fiches-me/kerna/edit/main/:path'
     },
     nav: [
       { text: '💫 Philosophie', link: '/philo' },
@@ -43,12 +43,12 @@ const vitePressConfigs = {
       copyright: 'Copyright © 2019-2025 FUNASITIEN'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/fiches-cc/cpes' }
+      { icon: 'github', link: 'https://github.com/fiches-cc/kerna' }
     //  { icon: 'discord', link: 'https://join.aelysium.group/' }
     ]
   },
   sitemap: {
-    hostname: 'https://cpes.fiches.me'
+    hostname: 'https://kerna.fiches.me'
   }
 }
 export default defineConfig(
