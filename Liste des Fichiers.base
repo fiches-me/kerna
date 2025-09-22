@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.ext == "md"
+formulas:
+  Untitled: ""
+properties:
+  note.title:
+    displayName: Titre (web)
+  note.draft:
+    displayName: Brouillon
+  note.finished:
+    displayName: Finie ?
+  file.basename:
+    displayName: Nom du fichier
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - title
+      - draft
+      - finished
+    sort:
+      - property: finished
+        direction: DESC
+      - property: file.basename
+        direction: ASC
+      - property: draft
+        direction: ASC
+      - property: title
+        direction: ASC
+      - property: file.name
+        direction: DESC
+    columnSize:
+      note.title: 418

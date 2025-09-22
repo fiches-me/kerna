@@ -1,10 +1,4 @@
 {
-  "name": "fiches.me",
-  "version": "2.0.0",
-  "description": "Documentation for fiches.me",
-  "author": "Funasitien",
-  "license": "GPL-3.0-only",
-  "homepage": "https://fiches.me",
   "devDependencies": {
     "vitepress": "^1.6.3"
   },
@@ -14,7 +8,6 @@
     "preview": "vitepress preview ."
   },
   "dependencies": {
-    "@catppuccin/vitepress": "^0.1.2",
     "@mdit/plugin-footnote": "^0.22.2",
     "markdown-it-mathjax3": "^4.3.2",
     "markdown-it-obsidian-callouts": "^0.3.2",
