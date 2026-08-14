@@ -48,8 +48,16 @@ const vitePressConfigs = {
     ]
   },
   sitemap: {
-    hostname: 'https://kerna.fiches.me'
-  }
+    hostname: 'https://kerna.fiches.funa.dev'
+  },
+  transformPageData(ctx) {
+    const canonicalUrl = `https://kerna.fiches.funa.dev/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
+    ctx.frontmatter.head = ctx.frontmatter.head || [];
+    ctx.frontmatter.head.push([
+      "link",
+      { rel: "canonical", href: canonicalUrl },
+    ]);
+  },
 }
 export default defineConfig(
   withMermaid(
