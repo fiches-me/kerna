@@ -14,7 +14,7 @@
     "markdown-it-obsidian": "^1.1.0",
     "markdown-it-obsidian-callouts": "^0.3.4",
     "markdown-it-task-lists": "^2.1.1",
-    "mermaid": "^11.17.2",
+    "mermaid": "^12.0.0",
     "primary-vitepress": "github:fiches-me/primary-vitepress",
     "vitepress-sidebar": "^1.40.0"
   }
