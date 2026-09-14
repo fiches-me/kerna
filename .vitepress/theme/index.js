@@ -1,6 +1,3 @@
-import DefaultTheme from 'vitepress/theme'
-import './fonts.css'
-import './callouts.css'
-import './colors.css'
+import PrimaryTheme from 'primary-vitepress'
 
-export default DefaultTheme
+export default PrimaryTheme;
