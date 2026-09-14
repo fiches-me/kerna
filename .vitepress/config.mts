@@ -1,12 +1,7 @@
 import { defineConfig, UserConfig } from "vitepress";
 import { primaryThemeConfig } from 'primary-vitepress/config';
 import { withSidebar } from "vitepress-sidebar";
-import { footnote } from "@mdit/plugin-footnote";
-import mdItTaskLists from "markdown-it-task-lists";
 
-import mdItObsidianCallouts from "markdown-it-obsidian-callouts";
-import markdownItObsidian from "markdown-it-obsidian";
-import mathjax3 from "markdown-it-mathjax3";
 
 // https://vitepress.dev/reference/site-config
 const vitePressConfigs: UserConfig<any> = {
@@ -23,13 +18,6 @@ const vitePressConfigs: UserConfig<any> = {
     languageAlias: {
       "pseudo-code": "python",
       conf: "yaml",
-    },
-    config: (md) => {
-      //md.use(footnote);
-      //md.use(mdItObsidianCallouts);
-      //md.use(markdownItObsidian, { enabled: true });
-      //md.use(mathjax3);
-      //md.use(mdItTaskLists, { enabled: true });
     },
   },
   titleTemplate: ":title - FICHES KERNA",
