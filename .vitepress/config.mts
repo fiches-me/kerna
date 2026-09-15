@@ -7,6 +7,7 @@ import { withSidebar } from "vitepress-sidebar";
 const vitePressConfigs: UserConfig<any> = {
   title: "📑 FICHES.ME Terminale",
   description: "Force pour la philo",
+  base: "/kerna/",
   extends: primaryThemeConfig,
   cleanUrls: true,
   lastUpdated: true,
@@ -22,7 +23,7 @@ const vitePressConfigs: UserConfig<any> = {
   },
   titleTemplate: ":title - FICHES KERNA",
   lang: "fr-FR",
-  head: [["link", { rel: "icon", type: "image/png", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", type: "image/png", href: "/kerna/logo.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/logo.png",
@@ -33,7 +34,7 @@ const vitePressConfigs: UserConfig<any> = {
       { text: '💫 Philosophie', link: '/philo' },
       { text: '💃 Espagnol', link: '/espagnol' },
       { text: '🍵 DNL', link: '/dnl' },
-      { text: '💖 Nous Aider', link: '/contribution' },
+      { text: '💖 Nous Aider', link: 'https://fiches.funa.dev/contribution' },
 
     ],
     footer: {
@@ -49,7 +50,7 @@ const vitePressConfigs: UserConfig<any> = {
     hostname: "https://kerna.fiches.funa.dev",
   },
   transformPageData(ctx) {
-    const canonicalUrl = `https://kerna.fiches.funa.dev/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
+    const canonicalUrl = `https://fiches.funa.dev/kerna/${ctx.relativePath.replace(/\.(md|html)$/, "").replace(/\index$/, "")}`;
     ctx.frontmatter.head = ctx.frontmatter.head || [];
     ctx.frontmatter.head.push([
       "link",
