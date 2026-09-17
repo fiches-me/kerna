@@ -1,25 +1,25 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+title: 🏠 Accueil
 layout: home
-
 hero:
-  name: "FICHES.ME"
-  text: "Page d'accueil en construction"
-  tagline: Dans un soucis de cohésion, cette page est en reconstruction.
+  name: FICHES.ME V2
+  text: La deuxième édition de Guigui qui sauve ton année de CPES
+  image:
+    src: /logo.png
+    alt: "Fiche's Logo"
   actions:
     - theme: brand
-      text: Boutton 1
-      link: /markdown-examples
-    - theme: alt
-      text: Boutton 2
-      link: /api-examples
-
+      text: Philo
+      link: /philo/
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 📱 Responsive
+    details: Bien visible sur téléphone
   - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: We are still building this website
+  - title: 🤔 Au Programme ?
+    details: Thanks for your patience.
 ---
 
+## 📬 Contact
+
+For any questions/requests, you can contact the maintainers team by mail at [[mailto:cpes@funa.dev|cpes@funa.dev]]
