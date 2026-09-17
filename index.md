@@ -3,7 +3,7 @@ title: 🏠 Accueil
 layout: home
 hero:
   name: FICHES.ME
-  text: Les fiches de philo avec un vrais cours avec moins de philo (mais plus de cours)
+  text: Les fiches de philo avec le cours en +
   image:
     src: /logo.png
     alt: "Fiche's Logo"
