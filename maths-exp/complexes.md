@@ -10,23 +10,19 @@ title: Les nombres complexes
 
 # Définition
 
-Un nombre complexe $$z$$ se présente sous la forme $$z=a+i b$$ où $$a \space et \space b$$ sont réels et $$i$$ est tel que $$i^2=-1$$.
+Un nombre complexe $z$ se présente sous la forme $z=a+i b$ où $a \space et \space b$ sont réels et $i$ est tel que $i^2=-1$.
 
-a est la partie réelle tandis que b est la partie imaginaire de $$z$$![[axe_des_complexes.png]]
+a est la partie réelle tandis que b est la partie imaginaire de $z$
 
-Le point M est représenté par le nombre complexe $$z=a+i b$$ dans le plan complexe.
+Le point M est représenté par le nombre complexe $z=a+i b$ dans le plan complexe.
 
-On parle d'affixe dans le plan complexe et de coordonnées dans le plan réel. ($$z$$ est l'affixe du point M)
+On parle d'affixe dans le plan complexe et de coordonnées dans le plan réel. ($z$ est l'affixe du point M)
 
 # Conjugué d'un nombre complexe
 
-Soit un nombre complexe $$z=a+i b$$
+Soit un nombre complexe $z=a+i b$
 
-On appelle nombre complexe conjugué de $$z$$ le nombre $$\bar z = a - ib$$
+On appelle nombre complexe conjugué de $z$ le nombre $\bar z = a - ib$
 ## Illustration graphique :
 
-![[complexe_conjugué.png]]
-
-Le point $$M'$$d'affixe $$\bar z$$ est le symétrique du point $$M$$ d'affixe $$z$$ par rapport à l'axe des abscisses v
-
-![[RB-05_09_2024(1).jpg]]![[RB-05_09_2024(3).jpg]]![[RB-08_09_2024.jpg]]![[Mathématiques/photos-mathsexpertes/RB-14_09_2024.jpg]]![[Mathématiques/photos-mathsexpertes/RB-14_09_2024 (1).jpg]]![[Mathématiques/photos-mathsexpertes/RB-14_09_2024 (2).jpg]]
+Le point $M'$d'affixe $\bar z$ est le symétrique du point $M$ d'affixe $z$ par rapport à l'axe des abscisses v
