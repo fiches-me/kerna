@@ -12,7 +12,6 @@ Autrement dit pour tout $$A>0$$ il existe un rang $$n_0$$ tel que pour tout $$n 
 
 On note : $$\lim \limits _{n \to + \infty} u_n = + \infty$$
 
-![[suite_A_n0.png|350]]
 ## Démontrer que la limite de Un = +l'infini
 
 Soit $$n \in \mathbb{N} \space et \space A > 0 $$ on pose $$u_n = 4n² $$

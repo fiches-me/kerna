@@ -16,7 +16,6 @@ Une telle suite est dite convergente : elle admet une limite finie.
 >  Ex: [[7divergente|➡️ Les suites divergentes en l'infini]]
 
 
-![[suite_convergente.png]]
 
 ## Théorème de la limite monotone
 

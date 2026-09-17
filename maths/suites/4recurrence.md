@@ -10,7 +10,6 @@ Il faut prouver dans un premier temps, que **le premier domino soit pousser** 
 
 C'est le raisonnement par récurrence.
 
-![[recurrence-dominos.png | 450]]
 ## Comment démontrer qu'une propriété est vraie ?
 
 Pn désigne une propriété qui dépend d'un entier naturel n
@@ -25,4 +24,3 @@ Il faut alors partir de la propriété au rang $$n$$ pour essayer de retrouver l
 
 ## Exemple :
 [[5bernoulli|➡️ Inégalité de Bernoulli]]
- 
