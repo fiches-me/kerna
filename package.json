@@ -1,7 +1,6 @@
 {
   "name": "kerna",
   "devDependencies": {
-    "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "2.0.0-alpha.20"
   },
   "scripts": {
@@ -10,11 +9,6 @@
     "preview": "vitepress preview ."
   },
   "dependencies": {
-    "@mdit/plugin-footnote": "^0.22.4",
-    "markdown-it-obsidian": "^1.1.0",
-    "markdown-it-obsidian-callouts": "^0.3.4",
-    "markdown-it-task-lists": "^2.1.1",
-    "mermaid": "^11.17.2",
     "primary-vitepress": "^1.1.7",
     "vitepress-sidebar": "^1.40.0"
   }

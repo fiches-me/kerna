@@ -12,7 +12,6 @@ const vitePressConfigs: UserConfig<any> = {
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
-  metaChunk: true,
   markdown: {
     lineNumbers: true,
     math: true,
@@ -61,7 +60,6 @@ const vitePressConfigs: UserConfig<any> = {
 
 const sections = [
   "espagnol",
-  "contribution",
   "dnl",
   "philo",
 ];
