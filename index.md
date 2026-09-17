@@ -2,8 +2,8 @@
 title: 🏠 Accueil
 layout: home
 hero:
-  name: FICHES.ME V2
-  text: La deuxième édition de Guigui qui sauve ton année de CPES
+  name: FICHES.ME
+  text: Les fiches de philo avec un vrais cours avec moins de philo (mais plus de cours)
   image:
     src: /logo.png
     alt: "Fiche's Logo"
